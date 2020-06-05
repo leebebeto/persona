@@ -1,0 +1,2077 @@
+{'score': 1, 'review': "Now I wish we'd never met"}
+{'score': 1, 'review': "Now she's givin' seventy percent and I'm givin' thirty"}
+{'score': 1, 'review': "Or one day you'll be gone"}
+{'score': 1, 'review': 'From the kitchen to the bathroom sink and'}
+{'score': 1, 'review': 'Even when you’re crying you’re beautiful too'}
+{'score': 1, 'review': "I can't live"}
+{'score': 1, 'review': 'Sun comes up again, my love'}
+{'score': 1, 'review': 'When you want me, honey, just call me'}
+{'score': 1, 'review': "She know where you hide it, tell me where it's hidden"}
+{'score': 1, 'review': 'Well I found a girl beautiful and sweet '}
+{'score': 1, 'review': 'Like the goal your sister brought'}
+{'score': 1, 'review': 'I can still shut down a party'}
+{'score': 1, 'review': 'You say I am strong when I think I am weak'}
+{'score': 1, 'review': 'Talk to'}
+{'score': 1, 'review': 'Help me let down my guard '}
+{'score': 1, 'review': "Cause here I am, I'm givin' all I can"}
+{'score': 1, 'review': 'Will disappear'}
+{'score': 1, 'review': 'Even when I mean the most to you'}
+{'score': 1, 'review': 'I will die for you'}
+{'score': 1, 'review': "Oh I wish, (said I wish) wish I didn't care, yeah"}
+{'score': 1, 'review': 'How do you measure, measure a year?'}
+{'score': 1, 'review': 'Cause baby all I really want is you'}
+{'score': 1, 'review': "No one's got your back like I do"}
+{'score': 1, 'review': 'Love me, love me, love me now'}
+{'score': 1, 'review': "The skies will spread your wings 'cause this town's too small"}
+{'score': 1, 'review': 'As he tried to reassemble it'}
+{'score': 1, 'review': "Thinking about you doesn't tell me"}
+{'score': 1, 'review': "Ain't nobody in the world"}
+{'score': 1, 'review': "Even though I don't tell you all the time"}
+{'score': 1, 'review': 'Yes'}
+{'score': 1, 'review': "Please don't let go (Please don't let go)"}
+{'score': 1, 'review': 'And I find myself careening in places where I should not let me go.'}
+{'score': 1, 'review': 'All that lean I sip on, now watch me pour it'}
+{'score': 1, 'review': 'Some people need three dozen roses'}
+{'score': 1, 'review': 'Steady as the stars in the woods'}
+{'score': 1, 'review': 'Still I keep loving you'}
+{'score': 1, 'review': 'We practice love between these sheets'}
+{'score': 1, 'review': 'Play whith fire'}
+{'score': 1, 'review': "I won't push you baby, woo"}
+{'score': 1, 'review': 'Yeah, I saved all the texts off of my ex'}
+{'score': 1, 'review': 'Gunshots'}
+{'score': 1, 'review': 'In good times and in bad'}
+{'score': 1, 'review': 'Through the'}
+{'score': 1, 'review': 'I would already know, if there was something wrong'}
+{'score': 1, 'review': 'Cause a'}
+{'score': 1, 'review': 'Forever and ever'}
+{'score': 1, 'review': "And I'll use you as a makeshift gauge"}
+{'score': 1, 'review': 'Down deep in his soul'}
+{'score': 1, 'review': "I'll kiss you goodnight and say I love you still"}
+{'score': 1, 'review': "I'll think of you every step of the way"}
+{'score': 1, 'review': "(Ah, swingin', swingin')"}
+{'score': 1, 'review': 'La di da, da di da, more than words'}
+{'score': 1, 'review': "We don't know how to rhyme"}
+{'score': 1, 'review': "True colors are beautiful (you're beautiful, oh)"}
+{'score': 1, 'review': "Turn away 'cause I need you more"}
+{'score': 1, 'review': 'Details, details, details, details, details'}
+{'score': 1, 'review': "See when I'm home, I'm all alone and you are always gone"}
+{'score': 1, 'review': "Don't give me that bye-bye baby when the night moves into black from the blue"}
+{'score': 1, 'review': "Oh I'll never never fall in love"}
+{'score': 1, 'review': 'I hate the way you love me'}
+{'score': 1, 'review': 'Like the sea'}
+{'score': 1, 'review': 'What are you thinking of'}
+{'score': 1, 'review': "They're not enough"}
+{'score': 1, 'review': "And I wish I didn't care"}
+{'score': 1, 'review': "What I'd"}
+{'score': 1, 'review': "Damn, I didn't think it'd be that easy"}
+{'score': 1, 'review': 'Cause when'}
+{'score': 1, 'review': 'The time'}
+{'score': 1, 'review': "I believe it's meant to be, darling"}
+{'score': 1, 'review': "Even when the business ain't going well, we still cool"}
+{'score': 1, 'review': "It's a East Atlanta love letter, who gon' love better?"}
+{'score': 1, 'review': "I'll just keep on making the same mistakes"}
+{'score': 1, 'review': 'Swim in a deep sea'}
+{'score': 1, 'review': '(Take it all inside)'}
+{'score': 1, 'review': "And I've known sleepless and I've known hopeless"}
+{'score': 1, 'review': "It's destiny to we connected girl"}
+{'score': 1, 'review': 'And they say love is a journey.'}
+{'score': 1, 'review': 'I gotta know now'}
+{'score': 1, 'review': 'Stay with, with...'}
+{'score': 1, 'review': 'Open eyes'}
+{'score': 1, 'review': 'And I travelled around the world'}
+{'score': 1, 'review': "Winter's come to take me away"}
+{'score': 1, 'review': 'Nigerian queen who love to scheme'}
+{'score': 1, 'review': 'And waste'}
+{'score': 1, 'review': 'With a thrill in my head and a pill on my tongue'}
+{'score': 1, 'review': 'Every time we together, we on some fly shit'}
+{'score': 1, 'review': 'And pretend we just got back from the bar'}
+{'score': 1, 'review': "Pullin' petals off of a rose"}
+{'score': 1, 'review': "I saw the part of you that only when you're older"}
+{'score': 1, 'review': 'So far from home where the ocean stood'}
+{'score': 1, 'review': 'She looked at him with pleading eyes'}
+{'score': 1, 'review': "Cause I don't need love from no one if I can't have it all"}
+{'score': 1, 'review': '(Never done before)'}
+{'score': 1, 'review': "So don't you ever leave me standing alone without your words"}
+{'score': 1, 'review': 'We grow, grow, steady as the flowers'}
+{'score': 1, 'review': "Lucky we're in love in every way"}
+{'score': 1, 'review': 'And your lips on mine'}
+{'score': 1, 'review': "When I know that all along they're made to break"}
+{'score': 1, 'review': 'I know I needed you'}
+{'score': 1, 'review': 'I just wanna dance and feel good'}
+{'score': 1, 'review': 'We can never know about the days to come'}
+{'score': 1, 'review': 'Thank God for the weekend'}
+{'score': 1, 'review': 'somebody without someone,'}
+{'score': 1, 'review': 'And she gave him some head'}
+{'score': 1, 'review': 'Roses are red, violets are blue'}
+{'score': 1, 'review': 'And then I go and tell my people, and they already know him'}
+{'score': 1, 'review': "We've been half alive for way too long"}
+{'score': 1, 'review': "So I'm not moving, I'm not moving"}
+{'score': 1, 'review': 'How I feel'}
+{'score': 1, 'review': "Much too blind to see the damage he's done"}
+{'score': 1, 'review': 'When you smiled at me'}
+{'score': 1, 'review': 'Time leaves no fruit on the tree'}
+{'score': 1, 'review': 'Take me as I am'}
+{'score': 1, 'review': 'yeah So before I let you go'}
+{'score': 1, 'review': 'Checking in and out'}
+{'score': 1, 'review': "But who're we kidding, it wasn't like I had a say"}
+{'score': 1, 'review': 'Will cause my heart, heart to break'}
+{'score': 1, 'review': "And I'ma give it right back"}
+{'score': 1, 'review': 'But if you have to pick just one'}
+{'score': 1, 'review': 'You leave her drive for a dive and you get something bad to eat'}
+{'score': 1, 'review': 'Somebody give me'}
+{'score': 1, 'review': "I don't know when I'll feel anymore"}
+{'score': 1, 'review': 'Whoa¡\xadoh¡\xadoh¡\xadoh¡\xadoh¡\xadoh¡\xad'}
+{'score': 1, 'review': "Maybe you'll love yourself like I love you oh"}
+{'score': 1, 'review': 'I laughed'}
+{'score': 1, 'review': "You've got too much pride to make any promises"}
+{'score': 1, 'review': "Words turn to riddles, don't make it worse"}
+{'score': 1, 'review': 'Love comes slow and it goes so fast'}
+{'score': 1, 'review': 'Can we stay here for awhile, for awhile?'}
+{'score': 1, 'review': "I've been up for days now"}
+{'score': 1, 'review': 'Cause with your hand in my hand and a pocket full of soul'}
+{'score': 1, 'review': 'Christmas night, it clutched the light, the hallow bright'}
+{'score': 1, 'review': "Baby, tell me if I'm being strange"}
+{'score': 1, 'review': 'I know sometimes'}
+{'score': 1, 'review': 'Got a head of shattered dreams'}
+{'score': 1, 'review': 'Dream so big eyes are wide'}
+{'score': 1, 'review': "It's better to feel pain, than nothing at all"}
+{'score': 1, 'review': "There's not a thing that I would change 'cause you're amazing"}
+{'score': 1, 'review': 'Time seems to stop'}
+{'score': 1, 'review': 'When I have you, wanna leave you'}
+{'score': 1, 'review': 'Fuck wit me'}
+{'score': 1, 'review': 'Red pill in my hand'}
+{'score': 1, 'review': 'Cause it only feels good after a good, good fight'}
+{'score': 1, 'review': "Don't nobody care about your heart like I do"}
+{'score': 1, 'review': "You're the only one that I want"}
+{'score': 1, 'review': 'I sit and wait'}
+{'score': 1, 'review': 'Cause I was made for you'}
+{'score': 1, 'review': 'Till I hit reality'}
+{'score': 1, 'review': 'Watching movies all the time'}
+{'score': 1, 'review': 'Something in the way she knows'}
+{'score': 1, 'review': 'Dreams last for so long'}
+{'score': 1, 'review': 'I think that you should get some rest'}
+{'score': 1, 'review': 'Oh you'}
+{'score': 1, 'review': 'So I step up, to say something that I do'}
+{'score': 1, 'review': "I'm lucky I know"}
+{'score': 1, 'review': 'Could you find a way to let me down slowly?'}
+{'score': 1, 'review': "It's like"}
+{'score': 1, 'review': "It's a curious woe"}
+{'score': 1, 'review': "I'm hoping I don't get a fast release"}
+{'score': 1, 'review': "He'll trade the world"}
+{'score': 1, 'review': 'Who came to make sweet love? Not me'}
+{'score': 1, 'review': 'Underneath the purple rain'}
+{'score': 1, 'review': 'Come on and'}
+{'score': 1, 'review': 'Looking back on when we first met'}
+{'score': 1, 'review': 'Hiding on the ceilings of our lives OR Hiding behind all, all busy lives'}
+{'score': 1, 'review': 'For every dream you made come true'}
+{'score': 1, 'review': 'We were gonna move to Brooklyn'}
+{'score': 1, 'review': "It'll be alright"}
+{'score': 1, 'review': "I'm so down for you"}
+{'score': 1, 'review': 'I trusted you, I trusted you'}
+{'score': 1, 'review': 'Lean into me, when you’re broken inside'}
+{'score': 1, 'review': 'Like the trees wait'}
+{'score': 1, 'review': 'A little light'}
+{'score': 1, 'review': "But I don't want to (but I don't want to), I don't want to (oh)"}
+{'score': 1, 'review': "And life rolls, it's all so fast until it slows"}
+{'score': 1, 'review': "It's because you keep calling me"}
+{'score': 1, 'review': "I'm not this regular hoe"}
+{'score': 1, 'review': "I remix your life like cut cocaine, it's all re-wrap"}
+{'score': 1, 'review': 'Saw you walk inside a bar'}
+{'score': 1, 'review': '(A rhapsody for you and me)'}
+{'score': 1, 'review': "It's never over, all my riches for her smiles"}
+{'score': 1, 'review': '(My heart, my heart)'}
+{'score': 1, 'review': 'To let them show your true colors'}
+{'score': 1, 'review': "Wherever we're standing"}
+{'score': 1, 'review': 'Neither of us wanna be alone'}
+{'score': 1, 'review': "They don't almost say I love you"}
+{'score': 1, 'review': 'Since I seen you, looked you in your eyes'}
+{'score': 1, 'review': 'I always feel like they talking to me when it comes on'}
+{'score': 1, 'review': 'Say I think I love her when you leave that room'}
+{'score': 1, 'review': "Let me be your 'leccy meter and I'll never run out"}
+{'score': 1, 'review': 'Got me looking so crazy right now (your touch)'}
+{'score': 1, 'review': "Hoes wanna holla, oh no i don't call 'em back"}
+{'score': 1, 'review': 'Oh no'}
+{'score': 1, 'review': 'Feel so cold and my skin feels so paper-thin'}
+{'score': 1, 'review': 'There and then I will make you my own'}
+{'score': 1, 'review': 'And when you turned to me and smiled, it took my breath away'}
+{'score': 1, 'review': 'Keeping you safe'}
+{'score': 1, 'review': "Ooh, I'm begging you, I'm begging you"}
+{'score': 1, 'review': "So don't you ask me"}
+{'score': 1, 'review': "Said this'll never hurt again"}
+{'score': 1, 'review': 'What can I do?'}
+{'score': 1, 'review': "But no other man's gonna do"}
+{'score': 1, 'review': "Can't lose it"}
+{'score': 1, 'review': 'Inside the necklace you got when you were sixteen'}
+{'score': 1, 'review': "I don't want to fight it"}
+{'score': 1, 'review': 'The boundaries that hold them'}
+{'score': 1, 'review': 'Your a wonder '}
+{'score': 1, 'review': "What the hell I'm supposed to do"}
+{'score': 1, 'review': "Your love's not selfish"}
+{'score': 1, 'review': "I wanna lay with you till the sun's up"}
+{'score': 1, 'review': 'Minus the tears'}
+{'score': 1, 'review': "I'm only packing fewer clothes, I forgot forgetting"}
+{'score': 1, 'review': "When I'm on the floor"}
+{'score': 1, 'review': 'But I want you'}
+{'score': 1, 'review': "Your love makes a fool of you, you can't seem to understand"}
+{'score': 1, 'review': "Dancin' around big eyes as well"}
+{'score': 1, 'review': 'Speak to me, word of God, speak to me'}
+{'score': 1, 'review': "Is that the kind'a way to face the burning heat?"}
+{'score': 1, 'review': 'And, ooh, make a little hideout in the sky'}
+{'score': 1, 'review': 'And we could give it a minute'}
+{'score': 1, 'review': 'You say I am held when I am falling short'}
+{'score': 1, 'review': 'No matter the high'}
+{'score': 1, 'review': 'Let it burn you to sleep'}
+{'score': 1, 'review': 'Am I lucky enough to say'}
+{'score': 1, 'review': "Let me come along, 'cause even if you're wrong"}
+{'score': 1, 'review': 'I keep telling myself this might be nothing'}
+{'score': 1, 'review': 'Tell me right now baby'}
+{'score': 1, 'review': "If you love me won't you"}
+{'score': 1, 'review': 'Skin-to-skin before you knew how to get under mine'}
+{'score': 1, 'review': 'Sometimes I love ya'}
+{'score': 1, 'review': 'Uncontrolled, uncontained'}
+{'score': 1, 'review': 'To die by your side '}
+{'score': 1, 'review': 'You hold me right here right now'}
+{'score': 1, 'review': 'All my tomorrows I give to you'}
+{'score': 1, 'review': 'Wish we could be like that'}
+{'score': 1, 'review': 'At the'}
+{'score': 1, 'review': 'Love better'}
+{'score': 1, 'review': 'Like your love'}
+{'score': 1, 'review': 'Keeps me warm right to my very soul'}
+{'score': 1, 'review': 'Higher than a rollercoaster? (yup)'}
+{'score': 1, 'review': "I'm sneaking glances, thanking God that he drew you like that"}
+{'score': 1, 'review': "Cause he can only show you what love ain't"}
+{'score': 1, 'review': 'Oh love, love is a made-up word'}
+{'score': 1, 'review': "It ain't ever gonna close"}
+{'score': 1, 'review': 'When the buzzards get loud'}
+{'score': 1, 'review': 'Wanna feel one last time'}
+{'score': 1, 'review': 'Too many things I have to do'}
+{'score': 1, 'review': '(Another world premier!)'}
+{'score': 1, 'review': 'Mmm hmm '}
+{'score': 1, 'review': "I've been idolizing the light in your eyes, Olivia"}
+{'score': 1, 'review': 'Should I bring it back right now?'}
+{'score': 1, 'review': 'You and me lost forever young'}
+{'score': 1, 'review': 'So don`t you ever think about leavin`'}
+{'score': 1, 'review': 'I love you (I love you)'}
+{'score': 1, 'review': 'I love ya'}
+{'score': 1, 'review': 'Looking for a better place (looking for a better place)'}
+{'score': 1, 'review': "Said we'd never be apart"}
+{'score': 1, 'review': "That we'll never know if we stay home"}
+{'score': 1, 'review': 'From the basement in the street light'}
+{'score': 1, 'review': 'mhm'}
+{'score': 1, 'review': 'What could it be worse? '}
+{'score': 1, 'review': 'Before we realized'}
+{'score': 1, 'review': 'Five hundred twenty-five thousand moments so dear'}
+{'score': 1, 'review': "I don't even know what things are looking like inside of your place and how it's decorated"}
+{'score': 1, 'review': 'Well, the landslide will bring it down'}
+{'score': 1, 'review': 'You are not alone'}
+{'score': 1, 'review': 'Between the sinners and the saints'}
+{'score': 1, 'review': 'She is electricity'}
+{'score': 1, 'review': 'Out of time'}
+{'score': 1, 'review': 'Trying to keep your feet'}
+{'score': 1, 'review': 'Beauty in all she is'}
+{'score': 1, 'review': "I'm wondering who you lay next to"}
+{'score': 1, 'review': "It's gonna take more"}
+{'score': 1, 'review': "Baby, now I, I can't see the lines"}
+{'score': 1, 'review': 'And those brown eyes, yes'}
+{'score': 1, 'review': 'I think of what the world could be'}
+{'score': 1, 'review': 'To build a wall between us'}
+{'score': 1, 'review': "But I be buggin' off the liquor"}
+{'score': 1, 'review': "Here's what we got before it's all gone"}
+{'score': 1, 'review': 'Girl, I know you really love me'}
+{'score': 1, 'review': 'Oh, you fill my lungs with sweetness,'}
+{'score': 1, 'review': "I raised you, you raised me, let's turn this whole life 'round"}
+{'score': 1, 'review': 'Wait for me, wait for me'}
+{'score': 1, 'review': "And I'll tell you, baby, it was easy"}
+{'score': 1, 'review': "And I don't know where I'm going but I know it's gonna be a long time"}
+{'score': 1, 'review': "So c'mon, c'mon, c'mon, c'mon, c'mon, baby"}
+{'score': 1, 'review': 'Last night out, she took me to'}
+{'score': 1, 'review': 'Oh, if he ever singles you up'}
+{'score': 1, 'review': 'Gucci shoes and a belt like it'}
+{'score': 1, 'review': "But I can't shake the feeling (I can't seem to understand it, how did we get so low)"}
+{'score': 1, 'review': "I can't keep up, and I can't back down"}
+{'score': 1, 'review': "You're the inspiration"}
+{'score': 1, 'review': 'You got me under your influence '}
+{'score': 1, 'review': 'Love can touch us one time'}
+{'score': 1, 'review': 'Even though we break up in the end'}
+{'score': 1, 'review': "Call me and I'm on my way"}
+{'score': 1, 'review': 'Ooh, baby'}
+{'score': 1, 'review': 'I love you'}
+{'score': 1, 'review': 'I could move a mountain when'}
+{'score': 1, 'review': 'At last the skies above are blue'}
+{'score': 1, 'review': "Let's be clear, I won't close my eyes"}
+{'score': 1, 'review': 'M-my my, m-my my, m-my my, give me love, lover (love me, love me, love me)'}
+{'score': 1, 'review': "I'm saying baby"}
+{'score': 1, 'review': 'Cause I opened my mouth'}
+{'score': 1, 'review': "I've never felt this way"}
+{'score': 1, 'review': "But it's been a month I'm wondering"}
+{'score': 1, 'review': 'Get a taste of paradise [?] fall in line'}
+{'score': 1, 'review': 'Cuz Misdemeanor'}
+{'score': 1, 'review': 'Somebody had to break your heart in two'}
+{'score': 1, 'review': "Words don't come easily"}
+{'score': 1, 'review': 'Even the stars refuse to shine'}
+{'score': 1, 'review': "And money can't make up for it or conceal it"}
+{'score': 1, 'review': 'And yeah I love my baby mother'}
+{'score': 1, 'review': 'Touching, discovering you'}
+{'score': 1, 'review': 'I see forever when I see your face'}
+{'score': 1, 'review': 'And tell me, did Venus blow your mind'}
+{'score': 1, 'review': 'The way I danced with you'}
+{'score': 1, 'review': "And it's an unusual feeling, you used to believe in"}
+{'score': 1, 'review': 'If you ever want to be in love'}
+{'score': 1, 'review': 'Was always tearing at the seams'}
+{'score': 1, 'review': 'I keep'}
+{'score': 1, 'review': 'Even though'}
+{'score': 1, 'review': "If you're determined to leave boy"}
+{'score': 1, 'review': "No, there's nothing that I wouldn't do"}
+{'score': 1, 'review': 'Is it hot in here or is it just me?'}
+{'score': 1, 'review': "And yeah, I know I'm supposed to be about my money"}
+{'score': 1, 'review': "Ignore another call 'cause your body wants it all"}
+{'score': 1, 'review': "You're calling my name but I gotta make clear"}
+{'score': 1, 'review': 'Bring me a higher love oh '}
+{'score': 1, 'review': 'No, ooh ooh ooh ooh ooh ooh'}
+{'score': 1, 'review': 'You came through with that sativa'}
+{'score': 1, 'review': "Only think 'bout you when I'm alone"}
+{'score': 1, 'review': 'But you mush up my mind'}
+{'score': 1, 'review': 'But we shared a moment that will last till the end'}
+{'score': 1, 'review': 'I want to stand with you on a mountain,'}
+{'score': 1, 'review': 'Like a river flows surely to the sea'}
+{'score': 1, 'review': "365, you're the only one I trust"}
+{'score': 1, 'review': "Let's be the way we were when we first began"}
+{'score': 1, 'review': 'Cause we both thought'}
+{'score': 1, 'review': 'I can picture you'}
+{'score': 1, 'review': "I'm just wanna dance all night"}
+{'score': 1, 'review': "I'm longing to linger till dawn dear"}
+{'score': 1, 'review': 'Whoa oh whoa'}
+{'score': 1, 'review': "Don't stop"}
+{'score': 1, 'review': 'We meet at the ledge'}
+{'score': 1, 'review': "I wanna take it slow but it's so hard"}
+{'score': 1, 'review': 'Baby go and take your time'}
+{'score': 1, 'review': 'So we left'}
+{'score': 1, 'review': 'We hot but we humble'}
+{'score': 1, 'review': 'A melody I start, but I will complete'}
+{'score': 1, 'review': 'I will wait for it'}
+{'score': 1, 'review': "I don't know"}
+{'score': 1, 'review': 'She, she '}
+{'score': 1, 'review': 'I know a lot of guys today they wish they had somebody just like you'}
+{'score': 1, 'review': 'Take it to a whisper'}
+{'score': 1, 'review': 'Matter of fact, bitch, gimme your phone (No)'}
+{'score': 1, 'review': "We can lay in my bed but we won't go to bed."}
+{'score': 1, 'review': 'When flattering leads to compromises, the end is always near'}
+{'score': 1, 'review': 'Oh, I got you seeing double'}
+{'score': 1, 'review': 'My everything is You'}
+{'score': 1, 'review': 'The lady in red is dancing with me, cheek to cheek'}
+{'score': 1, 'review': "Ain't it hard keeping it so hardcore?"}
+{'score': 1, 'review': 'Fade into you'}
+{'score': 1, 'review': "Hoping one day you'll make a dream last"}
+{'score': 1, 'review': "Just the feeling like you're going to die"}
+{'score': 1, 'review': 'Every time we talk, you move in close'}
+{'score': 1, 'review': 'I just want to be a voice for you'}
+{'score': 1, 'review': "Remember when bitches was curvin'"}
+{'score': 1, 'review': "Won't you"}
+{'score': 1, 'review': 'Something in the way she moves'}
+{'score': 1, 'review': 'And just like them old stars'}
+{'score': 1, 'review': "When we see what we've become"}
+{'score': 1, 'review': 'I gotta be honest, I gotta be honest'}
+{'score': 1, 'review': 'I feel so alive'}
+{'score': 1, 'review': 'And then we make love'}
+{'score': 1, 'review': "Cause I'll never be with you"}
+{'score': 1, 'review': 'At least I go down to the grave and die happily'}
+{'score': 1, 'review': 'I can find a friend'}
+{'score': 1, 'review': 'And she never did charge her'}
+{'score': 1, 'review': 'Grown up slaves in gold chains'}
+{'score': 1, 'review': 'Yeah, when it stops '}
+{'score': 1, 'review': 'Cause when you smile'}
+{'score': 1, 'review': 'I got real big plans'}
+{'score': 1, 'review': 'For me to fall for your kind'}
+{'score': 1, 'review': 'And we make our mistakes'}
+{'score': 1, 'review': 'Your letters get shorter, the days get longer'}
+{'score': 1, 'review': "And baby, that's no lie"}
+{'score': 1, 'review': 'I know you and you know me, we got telepathy'}
+{'score': 1, 'review': 'Oh I learned the hard way'}
+{'score': 1, 'review': 'But I dance through the blisters at night'}
+{'score': 1, 'review': "You're with me, not someone else"}
+{'score': 1, 'review': "I've been counting my stars"}
+{'score': 1, 'review': 'I love, I love, I love Olivia'}
+{'score': 1, 'review': "I don't want less, I don't want more"}
+{'score': 1, 'review': "You don't feel me here anymore"}
+{'score': 1, 'review': 'And you never left me no messages'}
+{'score': 1, 'review': "So don't tell me I'm like anybody else"}
+{'score': 1, 'review': 'Hail a cab at for the airport'}
+{'score': 1, 'review': "Cause I know that's not you"}
+{'score': 1, 'review': 'And they so pretty, and they hair lengthy, he hit it and sleep on her titties'}
+{'score': 1, 'review': 'You told me you were moving with your dad to another state'}
+{'score': 1, 'review': 'I never said you had to offer me a second chance'}
+{'score': 1, 'review': 'In your eyes, love, it glows so'}
+{'score': 1, 'review': 'Shake that ass like boom shakalaka, boom shakalaka (boom, boom)'}
+{'score': 1, 'review': 'To find my own'}
+{'score': 1, 'review': 'May come to me from shadows in the past '}
+{'score': 1, 'review': 'She say, ooh, no emotion, Mona Lisa, Mona Lisa'}
+{'score': 1, 'review': 'Oh yeah yeah, oh yeah yeah'}
+{'score': 1, 'review': "And that somebody loves you back, and that's a fact"}
+{'score': 1, 'review': "Somthin' that you've got to love this girl"}
+{'score': 1, 'review': 'What a wicked game you play, you make me feel this way'}
+{'score': 1, 'review': 'Even if the skies get rough'}
+{'score': 1, 'review': 'How was I to show'}
+{'score': 1, 'review': 'Crave whats all'}
+{'score': 1, 'review': 'You so fed up'}
+{'score': 1, 'review': "Get ready (oh, yes, I'm ready)"}
+{'score': 1, 'review': 'Are your eyes still green girl?'}
+{'score': 1, 'review': "Birds are leaving over autumn's ending"}
+{'score': 1, 'review': "Is she walkin' back to me?"}
+{'score': 1, 'review': 'Sick and tired of what to say'}
+{'score': 1, 'review': "When you're not here"}
+{'score': 1, 'review': "Baby, let's get right down to business"}
+{'score': 1, 'review': 'All I wanna know is'}
+{'score': 1, 'review': 'Footsteps outside somewhere below'}
+{'score': 1, 'review': 'Got me looking so crazy right now (oh, crazy)'}
+{'score': 1, 'review': "This feelin', you keep givin'"}
+{'score': 1, 'review': "I'm just sittin' there watchin' TV"}
+{'score': 1, 'review': 'Oh oh oh'}
+{'score': 1, 'review': "Her lips on your neck, I can't unsee it"}
+{'score': 1, 'review': "and then I'm off for home."}
+{'score': 1, 'review': 'Do you?'}
+{'score': 1, 'review': "It wasn't good (no no)"}
+{'score': 1, 'review': "So I'm looking for an open door"}
+{'score': 1, 'review': 'How long will I be with you'}
+{'score': 1, 'review': "Say, boy, let's not talk too much"}
+{'score': 1, 'review': 'Okay, yeah, see, yeah'}
+{'score': 1, 'review': 'The vacancy that sat in my heart'}
+{'score': 1, 'review': 'I put makeup on my face'}
+{'score': 1, 'review': 'You look away from me'}
+{'score': 1, 'review': 'Time to meet our contestants!'}
+{'score': 1, 'review': "If it was up to me, I'd put the rose petals down for you girl"}
+{'score': 1, 'review': 'Do you believe it?'}
+{'score': 1, 'review': "So many stories of where I've been"}
+{'score': 1, 'review': 'Everyday'}
+{'score': 1, 'review': "You be the pretty and I'll be the funny"}
+{'score': 1, 'review': "I never thought your love was worth it's wait"}
+{'score': 1, 'review': "You're here, there's nothing I fear"}
+{'score': 1, 'review': "Ho, ooh, I want you now, I just can't wait no more, can't wait, oh"}
+{'score': 1, 'review': 'Oh I need you in my arms, need you to hold'}
+{'score': 1, 'review': "If you loved the girl then I'm so, so sorry"}
+{'score': 1, 'review': 'Sometimes I feel good'}
+{'score': 1, 'review': "I've found, I've found in you"}
+{'score': 1, 'review': 'What do I do with all this, oh yeah'}
+{'score': 1, 'review': 'Behind closed doors'}
+{'score': 1, 'review': "And you've taken all you can bear"}
+{'score': 1, 'review': 'I wait for time'}
+{'score': 1, 'review': 'Crazy bring ya whole set'}
+{'score': 1, 'review': 'Now all is lost '}
+{'score': 1, 'review': "We're a wreck, you're the wrecking ball"}
+{'score': 1, 'review': 'Just make it last forever (I loved to) and ever (Woo, oh)'}
+{'score': 1, 'review': "It's in all the little things, when you smile, now it stings"}
+{'score': 1, 'review': 'Job done'}
+{'score': 1, 'review': 'Hit my line, hit my line'}
+{'score': 1, 'review': 'More than words '}
+{'score': 1, 'review': 'You toyed with my affliction'}
+{'score': 1, 'review': "And they were right, but I can't help looking back"}
+{'score': 1, 'review': 'Put my face in it, eat it like a dinner date'}
+{'score': 1, 'review': '3rd and Lake it burnt away, the hallway'}
+{'score': 1, 'review': "It's not easy for someone to catch my eye"}
+{'score': 1, 'review': 'To spend an evening with me'}
+{'score': 1, 'review': 'All up in di dance mi seh dats weh mi love.'}
+{'score': 1, 'review': 'And I feel the love is dead'}
+{'score': 1, 'review': 'Got me looking so crazy right now (love)'}
+{'score': 1, 'review': "Girl why don't we go there"}
+{'score': 1, 'review': 'But nothings greater, than the rush that comes with your embrace'}
+{'score': 1, 'review': 'Kids at play, I say'}
+{'score': 1, 'review': 'You know my Cartier friends got limo tints'}
+{'score': 1, 'review': "I've forgotten how it felt before the world fell at our feet"}
+{'score': 1, 'review': 'As soon as I find out'}
+{'score': 1, 'review': 'I put you on top, I put you on top'}
+{'score': 1, 'review': "Just wanna know where you've gone"}
+{'score': 1, 'review': 'Feeling something rotten'}
+{'score': 1, 'review': "I don't want to miss one kiss"}
+{'score': 1, 'review': "Tell me you're gon' get it now, baby, yeah"}
+{'score': 1, 'review': 'Always playing on my mind'}
+{'score': 1, 'review': "Give a little light (won't you give it?)"}
+{'score': 1, 'review': 'Is hold you tight, just one more, one more night'}
+{'score': 1, 'review': "Cause he left scars, I'm here to heal for you"}
+{'score': 1, 'review': 'Just another funeral for her, goddamn'}
+{'score': 1, 'review': 'Cause here they come'}
+{'score': 1, 'review': "And lettin' it burn off from the rush"}
+{'score': 1, 'review': "I'm dreaming (thanks for saving this afternoon)"}
+{'score': 1, 'review': "I'm not goin' back there"}
+{'score': 1, 'review': 'A way to make it back someday'}
+{'score': 1, 'review': "Twenty mirrors in my crib, I'm hanging with my friends"}
+{'score': 1, 'review': "Speed this up 'cause I'm excited"}
+{'score': 1, 'review': 'Now this mountain I must climb'}
+{'score': 1, 'review': "bitches, these hoes, and I don't need that"}
+{'score': 1, 'review': "(Whoa, you know I don't mind)"}
+{'score': 1, 'review': 'Quote you the scripture kind'}
+{'score': 1, 'review': 'Shake shake, shake shake '}
+{'score': 1, 'review': 'We could be on any street'}
+{'score': 1, 'review': "But someone look, there's a growing need"}
+{'score': 1, 'review': 'On some sugar at the truck stop and some scratch-offs'}
+{'score': 1, 'review': "It's hard to take courage"}
+{'score': 1, 'review': "When I'm crying out for you"}
+{'score': 1, 'review': "If I weren't in this spider web of mine"}
+{'score': 1, 'review': "I promise you you're all I see"}
+{'score': 1, 'review': 'I want you to stay (I want you to stay)'}
+{'score': 1, 'review': 'They tell me how much you care '}
+{'score': 1, 'review': "Ooh, ooh, ooh, ooh, ooh, been wishin' for you (wishin')"}
+{'score': 1, 'review': "You know I'm such a fool for you"}
+{'score': 1, 'review': "So don't stop now"}
+{'score': 1, 'review': 'Oh my life is changing everyday'}
+{'score': 1, 'review': 'Swing, swing, swing the spinning step'}
+{'score': 1, 'review': "Tell me somethin', girl"}
+{'score': 1, 'review': 'And you may not think I care for you'}
+{'score': 1, 'review': 'Surrounded, surrounded'}
+{'score': 1, 'review': "We'll sit beneath the mango tree now"}
+{'score': 1, 'review': 'On the highway to hell, I prayed for you'}
+{'score': 1, 'review': 'At your heart'}
+{'score': 1, 'review': 'Throw your sticks and your stones, throw your bombs and your blows'}
+{'score': 1, 'review': '‘Cause now they know you are love of my life'}
+{'score': 1, 'review': "I'm more than what you've made of me"}
+{'score': 1, 'review': 'A second to give to me'}
+{'score': 1, 'review': "I'll tell you one thing, it's always better when we're together"}
+{'score': 1, 'review': "And I'm not moving on"}
+{'score': 1, 'review': "Don't care about you"}
+{'score': 1, 'review': 'I never should have told you'}
+{'score': 1, 'review': 'I can hear the same voice calling'}
+{'score': 1, 'review': 'All your dreams will come true, right away'}
+{'score': 1, 'review': "It's all brand new"}
+{'score': 1, 'review': "So I'm never gonna dance again"}
+{'score': 1, 'review': 'They judge what the money you grab with me (ayy)'}
+{'score': 1, 'review': 'My world was on fire, and no one could save me but you'}
+{'score': 1, 'review': "O why don't you stay around for awhile "}
+{'score': 1, 'review': 'Boy, I adore, you'}
+{'score': 1, 'review': 'Can get in the way of what I feel for you, you, you'}
+{'score': 1, 'review': 'How deep is your love?'}
+{'score': 1, 'review': "I ain't know then, but I know now"}
+{'score': 1, 'review': 'Every heartbreak trail when all hope fell'}
+{'score': 1, 'review': 'With some superhuman gifts'}
+{'score': 1, 'review': 'Baby girl (woo, ah)'}
+{'score': 1, 'review': 'I remember that time that you told me, you said'}
+{'score': 1, 'review': "If I fall for you, I'll never be the same"}
+{'score': 1, 'review': 'Make it clap good, issa snack good, oh yeah'}
+{'score': 1, 'review': "When it's time to make a change"}
+{'score': 1, 'review': 'That maybe we found love right where we are, oh'}
+{'score': 1, 'review': 'Beside you'}
+{'score': 1, 'review': "Oh, you're the one who's got me inspired"}
+{'score': 1, 'review': 'This love has no ceiling, I cannot deny'}
+{'score': 1, 'review': 'Yes I am a dreamer too'}
+{'score': 1, 'review': 'What type of scent is that? (Oh oh oh woah)'}
+{'score': 1, 'review': "I've been calling"}
+{'score': 1, 'review': 'Paparazzi looking at them both popping up and take a picture, uh'}
+{'score': 1, 'review': 'Who came to kiss and hug? Not me'}
+{'score': 1, 'review': 'Baby, even'}
+{'score': 1, 'review': "We'd go out on the sidewalk and smoke"}
+{'score': 1, 'review': "But now it's 'bout time to raise up and petition"}
+{'score': 1, 'review': 'And everything you have'}
+{'score': 1, 'review': "I'm scared to death that she might be it"}
+{'score': 1, 'review': "And I feel my love comin' up again (I feel my love)"}
+{'score': 1, 'review': "I'm so tired, I'm feeling so upset"}
+{'score': 1, 'review': "We'll be holding on forever"}
+{'score': 1, 'review': 'Bring me a higher love oh'}
+{'score': 1, 'review': 'Remember that with every piece of you'}
+{'score': 1, 'review': 'Got my head in a mess, girl, I confess'}
+{'score': 1, 'review': "Well, baby I'm down (I'm really down)"}
+{'score': 1, 'review': "Oh we'll go back, we'll go back to the beginning and we'll pickup on the trails of forgotten ways."}
+{'score': 1, 'review': 'If I could just see you, if I could just hold you tonight'}
+{'score': 1, 'review': "I ran 'til my feet couldn't run no more (no more, no more)"}
+{'score': 1, 'review': "Deep down I've known you were the one, is it too little too late?"}
+{'score': 1, 'review': 'Got an apartment and settled down'}
+{'score': 1, 'review': 'I stand a hundred feet'}
+{'score': 1, 'review': "But I just can't forgive you"}
+{'score': 1, 'review': 'Concrete filled up with blood (conc-)'}
+{'score': 1, 'review': 'Been waiting see yout face'}
+{'score': 1, 'review': 'That girl in your arms does she know where you come from?'}
+{'score': 1, 'review': 'I belong to the stars and sky'}
+{'score': 1, 'review': 'Had a feeling that I could be someone'}
+{'score': 1, 'review': "Always moving and goin' nowhere"}
+{'score': 1, 'review': 'I just want to go home'}
+{'score': 1, 'review': 'Oh-oh, ooh'}
+{'score': 1, 'review': 'I hope that you’re falling for me and not just for my wealth'}
+{'score': 1, 'review': 'Run away with my love'}
+{'score': 1, 'review': 'Oh, when you sing it again'}
+{'score': 1, 'review': 'My lover please stay with me'}
+{'score': 1, 'review': 'Let your hair down, let me take a load off'}
+{'score': 1, 'review': 'in a real short skirt'}
+{'score': 1, 'review': 'Oh girl, oh girl.'}
+{'score': 1, 'review': 'And in our hearts'}
+{'score': 1, 'review': 'Girl, every time you do '}
+{'score': 1, 'review': "If you loved your girl then I'm so, so sorry"}
+{'score': 1, 'review': 'Ain’t that just the way that it goes'}
+{'score': 1, 'review': 'Third floor on the West Side, me and you'}
+{'score': 1, 'review': 'Do you think time would pass me by?'}
+{'score': 1, 'review': 'I always find those words at the bottom of a hundred proof, yeah '}
+{'score': 1, 'review': 'When you love, who you love'}
+{'score': 1, 'review': "It's not somebody who's seen the light"}
+{'score': 1, 'review': "I'll go get a ring"}
+{'score': 1, 'review': 'To win over, win me over'}
+{'score': 1, 'review': "I ain't never gonna shut you out"}
+{'score': 1, 'review': 'Tell me how?'}
+{'score': 1, 'review': "Come closer, I'll give you all my love"}
+{'score': 1, 'review': "Fire on fire, we're normally killers"}
+{'score': 1, 'review': "Neither one, one of us wants to say we're sorry"}
+{'score': 1, 'review': "I've been in my feels, I've been stackin' bills"}
+{'score': 1, 'review': 'Like, why the world do you like that?'}
+{'score': 1, 'review': "Check my credit card accounts and asked, What's the amount?"}
+{'score': 1, 'review': 'Yeah Fake gold on my hoops real rips on my pants'}
+{'score': 1, 'review': 'And I hold it, we both know it'}
+{'score': 1, 'review': "Don't let go, keep a hold"}
+{'score': 1, 'review': "you're gonna be the one that saves me"}
+{'score': 1, 'review': 'After all'}
+{'score': 1, 'review': "No way you're never gonna shake me"}
+{'score': 1, 'review': 'You would know that you are'}
+{'score': 1, 'review': 'You soft and only'}
+{'score': 1, 'review': "That it's only the thrill of boy meeting girl"}
+{'score': 1, 'review': 'Back, back, back it up'}
+{'score': 1, 'review': "When we're walking in the dark"}
+{'score': 1, 'review': 'But I may snap when I move close'}
+{'score': 1, 'review': 'Yeah, our anniversary'}
+{'score': 1, 'review': 'My life with you, oh baby, babe'}
+{'score': 1, 'review': "You're the one, you're the one, you're the one"}
+{'score': 1, 'review': "Lovin' up on you"}
+{'score': 1, 'review': "I'm careful but not sure how it goes"}
+{'score': 1, 'review': "It's hard when we argue"}
+{'score': 1, 'review': 'I work hard (he works hard) every day of my life'}
+{'score': 1, 'review': 'Oh I watch you there'}
+{'score': 1, 'review': 'Some natural catastrophe'}
+{'score': 1, 'review': 'Smoking his last cigarette'}
+{'score': 1, 'review': "So keep your eyes closed 'til I roll through"}
+{'score': 1, 'review': 'In Paris and Rome'}
+{'score': 1, 'review': "Whenever you're ready, I'm ready to move, gyal"}
+{'score': 1, 'review': 'Nine lives until you fall at my feet'}
+{'score': 1, 'review': 'Would it be a stress if I asked you to try again?'}
+{'score': 1, 'review': 'And I had no peace till you give me clarity'}
+{'score': 1, 'review': 'Sweet baby, our sex has meaning'}
+{'score': 1, 'review': 'Oh, oh oh, we need a bit of rock ‘n’ roll'}
+{'score': 1, 'review': 'Boy the music'}
+{'score': 1, 'review': "Yeah, we'll look at the stars when we're together"}
+{'score': 1, 'review': 'All these girls are (are not the same as you) not the same as you'}
+{'score': 1, 'review': "I'm jealous of the rain"}
+{'score': 1, 'review': "There's nothing else I want more than to feel this way"}
+{'score': 1, 'review': 'All I know is a simple name, everything has changed'}
+{'score': 1, 'review': 'No complications but do you feel like I do?'}
+{'score': 1, 'review': "But I'm getting ahead of myself"}
+{'score': 1, 'review': "Is there somethin' else you're searchin' for?"}
+{'score': 1, 'review': 'Oh, Lord'}
+{'score': 1, 'review': 'Maybe I know, somewhere'}
+{'score': 1, 'review': "I've frozen over my desires"}
+{'score': 1, 'review': 'Baby, let me touch your body and your soul, whoa'}
+{'score': 1, 'review': 'Baby, I could never steal you from another'}
+{'score': 1, 'review': 'Where have you been? (Where have you been?)'}
+{'score': 1, 'review': "And she give us the word, we come through with AK's "}
+{'score': 1, 'review': "We'd hurt each other with the things we'd want to say"}
+{'score': 1, 'review': 'The sins of our parents'}
+{'score': 1, 'review': 'Watch your mouth, Milli Vanilli (ooh)'}
+{'score': 1, 'review': "I can't deny"}
+{'score': 1, 'review': 'Sweet dreams till sunbeams find you'}
+{'score': 1, 'review': 'Wake in a sweat again'}
+{'score': 1, 'review': 'Some that made us laugh'}
+{'score': 1, 'review': 'How long will I give to you'}
+{'score': 1, 'review': 'F?ri lisinof'}
+{'score': 1, 'review': "I'm a little bit over my head, but I can't hold back no more"}
+{'score': 1, 'review': 'Baby, here I come'}
+{'score': 1, 'review': 'I hope life treats you kind'}
+{'score': 1, 'review': 'I want to hear you whisper'}
+{'score': 1, 'review': "Almost love, it's almost love"}
+{'score': 1, 'review': '(We should be happy together forever)'}
+{'score': 1, 'review': 'I drove the Autobahn, in a Coupe De Ville'}
+{'score': 1, 'review': "You'll never be alone (never be alone), I'll never let you go"}
+{'score': 1, 'review': "And she think that's me on the internet"}
+{'score': 1, 'review': "Yeah nothin' could change what you mean to me"}
+{'score': 1, 'review': 'Then forever can begin'}
+{'score': 1, 'review': "For now, yeah, I'm found but I lost too"}
+{'score': 1, 'review': "Silvermoon's sparkling"}
+{'score': 1, 'review': 'For some tender arms'}
+{'score': 1, 'review': "Now we don't share these covers"}
+{'score': 1, 'review': 'Within the measure of a day '}
+{'score': 1, 'review': 'But girl I wanna give you, every little bit'}
+{'score': 1, 'review': "And you're never coming 'round"}
+{'score': 1, 'review': 'What happened to that?'}
+{'score': 1, 'review': 'So I just had to let you know'}
+{'score': 1, 'review': 'I feel it in my ribs'}
+{'score': 1, 'review': 'I like it when you lose it'}
+{'score': 1, 'review': 'First time'}
+{'score': 1, 'review': "But don't let anyone"}
+{'score': 1, 'review': 'Every day I keep waking up, waking saying goodbye'}
+{'score': 1, 'review': "She's my baby, she's my baby"}
+{'score': 1, 'review': "You can't catch me 'cause the rabbit done died"}
+{'score': 1, 'review': 'Where I should and should not be'}
+{'score': 1, 'review': 'But time makes you bolder'}
+{'score': 1, 'review': 'Watching way more than the garden grow'}
+{'score': 1, 'review': 'One that made you have to say goodbye'}
+{'score': 1, 'review': "You been doin' things, yeah we proud of ya"}
+{'score': 1, 'review': 'Well, I love the rain the most when it stops '}
+{'score': 1, 'review': "Just popped bubbly in the 'cuzi"}
+{'score': 1, 'review': "She tells me 'worship in the bedroom'"}
+{'score': 1, 'review': 'And I know when it rains, oh, it pours'}
+{'score': 1, 'review': "And you're gone, the tape just keeps replayin'"}
+{'score': 1, 'review': 'I do whatever it takes'}
+{'score': 1, 'review': "It's like you were an angel"}
+{'score': 1, 'review': "Baby I'm addicted, I'm out of control (out of control)"}
+{'score': 1, 'review': 'So good'}
+{'score': 1, 'review': "Baby I'm ready, to give you all of my love, (All of my love)"}
+{'score': 1, 'review': 'For I am here with you'}
+{'score': 1, 'review': 'She might just be my everything'}
+{'score': 1, 'review': 'To me'}
+{'score': 1, 'review': 'It took one night, one try, ayy '}
+{'score': 1, 'review': "There's more where that came from, that's all I'm sayin'"}
+{'score': 1, 'review': 'And that somebody needs you back'}
+{'score': 1, 'review': 'Reaching out to you, so take a chance'}
+{'score': 1, 'review': 'Yeah, I'}
+{'score': 1, 'review': 'Get you in the nude girl'}
+{'score': 1, 'review': 'When everyone who loves me has died'}
+{'score': 1, 'review': 'The punchline that got too old'}
+{'score': 1, 'review': 'Saying I love you '}
+{'score': 1, 'review': 'By taking your hand'}
+{'score': 1, 'review': 'Everything moving so fast now'}
+{'score': 1, 'review': "And don't ever set me aside with the things you don't need"}
+{'score': 1, 'review': 'And it'}
+{'score': 1, 'review': 'Is a space that now you hold'}
+{'score': 1, 'review': "And we don't know how we got into this mad situation"}
+{'score': 1, 'review': "I'll hug you when I see you like you're leaving for a trip"}
+{'score': 1, 'review': 'And longer if I can'}
+{'score': 1, 'review': "Singin' how I've come to know"}
+{'score': 1, 'review': 'Come and see me for once'}
+{'score': 1, 'review': "And I'm in love with you (all these little things)"}
+{'score': 1, 'review': 'I open up my eyes'}
+{'score': 1, 'review': 'I just gotta get out of this prison cell'}
+{'score': 1, 'review': 'On this endless ocean'}
+{'score': 1, 'review': 'Baby you would take away everything'}
+{'score': 1, 'review': 'You better make it soon before you break my heart'}
+{'score': 1, 'review': "If you say that we're just friends, I say you're right"}
+{'score': 1, 'review': "Don't wait 'til I (do wrong)"}
+{'score': 1, 'review': "We never sleep we're always holdin' hands"}
+{'score': 1, 'review': 'Got to make it, got to make it, got to make (Ho¡\xadoh¡\xad), got to make it, oh, baby'}
+{'score': 1, 'review': 'There was someone here inside'}
+{'score': 1, 'review': "Girl don't You know your so beautiful"}
+{'score': 1, 'review': "She's ahead of her time"}
+{'score': 1, 'review': 'Alone way may be lost'}
+{'score': 1, 'review': 'Through the night'}
+{'score': 1, 'review': 'But you and I, we got it right'}
+{'score': 1, 'review': "Nothin' feels better, no, no"}
+{'score': 1, 'review': "You're my inspiration girl, you take me places, put the words right into these songs"}
+{'score': 1, 'review': 'So I stop and think that maybe'}
+{'score': 1, 'review': 'Do I make you turn into somebody else?'}
+{'score': 1, 'review': "I've let once in a lifetime kind of things slide right out of my arms"}
+{'score': 1, 'review': 'So summertime'}
+{'score': 1, 'review': 'No different than I was before'}
+{'score': 1, 'review': 'Freak me, baby'}
+{'score': 1, 'review': "Baby wish we never left the floor, I don't know"}
+{'score': 1, 'review': 'Already'}
+{'score': 1, 'review': 'With somebody who loves me'}
+{'score': 1, 'review': "Ain't no sunshine when she's gone"}
+{'score': 1, 'review': 'Oh my, hold this, oh this, I know'}
+{'score': 1, 'review': 'You caught me at my weakest'}
+{'score': 1, 'review': "Heaven's not ready for you"}
+{'score': 1, 'review': 'Your whole being is beautiful'}
+{'score': 1, 'review': 'You must like me for me'}
+{'score': 1, 'review': 'I want you to tell me'}
+{'score': 1, 'review': "And we've been together since our teenage years"}
+{'score': 1, 'review': 'It cuts you deep and leaves a scar'}
+{'score': 1, 'review': '(Come and tell me!)'}
+{'score': 1, 'review': 'Or, will I ever learn?'}
+{'score': 1, 'review': 'And so I met you in the dark'}
+{'score': 1, 'review': 'You gave your promise to me and I gave mine to you'}
+{'score': 1, 'review': 'You feel that way too'}
+{'score': 1, 'review': 'But I feel your heartbeat'}
+{'score': 1, 'review': "And I believe that it's easier for you to let me go"}
+{'score': 1, 'review': 'Yellow light flipping on and off, interrupting that goodnight kissing'}
+{'score': 1, 'review': 'Staying up late and friendly faces'}
+{'score': 1, 'review': 'And now my bedsheets smell like you'}
+{'score': 1, 'review': 'Our move is shake, shake, shake'}
+{'score': 1, 'review': 'Give in to desire'}
+{'score': 1, 'review': 'Bet she from the West Side, mmm'}
+{'score': 1, 'review': "What a shame, didn't want to be the one that got away"}
+{'score': 1, 'review': 'Wave like water, not a trend'}
+{'score': 1, 'review': 'She acts like summer and walks like rain'}
+{'score': 1, 'review': 'If you love someone'}
+{'score': 1, 'review': "I may be crazy, don't mind me"}
+{'score': 1, 'review': 'On'}
+{'score': 1, 'review': 'All I know is'}
+{'score': 1, 'review': 'Girl, you'}
+{'score': 1, 'review': "I'll never be untrue"}
+{'score': 1, 'review': "We are still kids, but we're so in love"}
+{'score': 1, 'review': 'Cause whenever I hear from you'}
+{'score': 1, 'review': 'You are safe in my heart and'}
+{'score': 1, 'review': 'Magnifying all our flaws'}
+{'score': 1, 'review': 'Oh make it rain'}
+{'score': 1, 'review': "Give me pretty lovin', baby"}
+{'score': 1, 'review': 'I can hear that wildcat growl'}
+{'score': 1, 'review': 'Just like anyone'}
+{'score': 1, 'review': "With so much left to say I prayed Lord I ain't finished"}
+{'score': 1, 'review': "It's hard for me to open up, I'll admit it (I'll admit it)"}
+{'score': 1, 'review': "The blanket when it's cold baby"}
+{'score': 1, 'review': 'Enough'}
+{'score': 1, 'review': 'Rolling with the punches'}
+{'score': 1, 'review': 'Too high to see that it would all lead to destruction'}
+{'score': 1, 'review': "Can love you 'til the day I die"}
+{'score': 1, 'review': "I'm not saying that I'm perfect"}
+{'score': 1, 'review': 'Oh, I am tired'}
+{'score': 1, 'review': 'Yeah I know that the woes and the weight of the world can get inside our minds '}
+{'score': 1, 'review': "Make you feel you can't feel like a man, feel like a man"}
+{'score': 1, 'review': "Had to face it that we didn't know"}
+{'score': 1, 'review': 'You got a bad reputation in my neighborhood '}
+{'score': 1, 'review': 'What would you do if my heart was torn in two '}
+{'score': 1, 'review': 'Yeah, who-ooooh (Yeah)'}
+{'score': 1, 'review': 'Cause she got to go soon'}
+{'score': 1, 'review': "So I'll wait for you and I'll burn"}
+{'score': 1, 'review': 'Reminiscing on those past days'}
+{'score': 1, 'review': 'In time I, in time I, in time I...'}
+{'score': 1, 'review': 'What the hells going on can someone tell me please'}
+{'score': 1, 'review': 'My little 15 minutes lasted long as hell, huh?'}
+{'score': 1, 'review': 'I found myself dreaming'}
+{'score': 1, 'review': 'And if somebody hurts you, I wanna fight'}
+{'score': 1, 'review': "Forever I'm yours, Forever I do."}
+{'score': 1, 'review': "I've been playing myself; baby, I don't care"}
+{'score': 1, 'review': 'And I love how she talk when we zoning'}
+{'score': 1, 'review': 'To ask you if I fucked it up and sang wrong'}
+{'score': 1, 'review': 'She is the tear that hangs inside my soul forever'}
+{'score': 1, 'review': 'Cause my darling, you and I'}
+{'score': 1, 'review': "We didn't know and the sun was on its way"}
+{'score': 1, 'review': "Nuff a dey ting, 'nuff a dey ting, say enough a dey ting"}
+{'score': 1, 'review': 'She said,'}
+{'score': 1, 'review': 'Just as long as you stand, stand by me'}
+{'score': 1, 'review': "I'm way to good at goodbyes"}
+{'score': 1, 'review': "(Won't you do that for me)"}
+{'score': 1, 'review': 'If we wake up and you want to break up'}
+{'score': 1, 'review': 'Too young to feel this old'}
+{'score': 1, 'review': 'Ooh this is why I love you'}
+{'score': 1, 'review': 'Don`t you ever think about leavin` (Don`t do it)'}
+{'score': 1, 'review': "So I quit school and that's what I did"}
+{'score': 1, 'review': "He's my sun, he makes me shine like diamonds"}
+{'score': 1, 'review': "It's without her"}
+{'score': 1, 'review': "And if there's a reason I'm by her side"}
+{'score': 1, 'review': 'I see your true colors'}
+{'score': 1, 'review': 'I wipe the spots off the mirror'}
+{'score': 1, 'review': '(Always, forever love you)'}
+{'score': 1, 'review': 'But, baby, I’m gonna be'}
+{'score': 1, 'review': 'I took the 401 to get from Yorkdale'}
+{'score': 1, 'review': "We'll hide away in the dark"}
+{'score': 1, 'review': '(7'}
+{'score': 1, 'review': 'Tell a thousand tales that will outstand ya'}
+{'score': 1, 'review': "But don't get too near for there's lions beware (Ahh Bam-Bambi)"}
+{'score': 1, 'review': 'Enclosed in that moment, I found a silver lining'}
+{'score': 1, 'review': 'Good night and joy be with you all'}
+{'score': 1, 'review': 'Never mine, never mine'}
+{'score': 1, 'review': "I'm the same way, too"}
+{'score': 1, 'review': 'Why am'}
+{'score': 1, 'review': '(I) feel like falling to my knees'}
+{'score': 1, 'review': 'Neither do I'}
+{'score': 1, 'review': 'Cause you know you give me something'}
+{'score': 1, 'review': '(Never, never)'}
+{'score': 1, 'review': "I'm on call to be there!"}
+{'score': 1, 'review': 'The greatest fan of your life'}
+{'score': 1, 'review': "You be in my dreams, and in my dreams I'm in you"}
+{'score': 1, 'review': 'On cheap talk and wine'}
+{'score': 1, 'review': 'My fingers are arguing over which'}
+{'score': 1, 'review': "I've been holding back"}
+{'score': 1, 'review': 'All my kisses belong to you,'}
+{'score': 1, 'review': 'You with the sad eyes'}
+{'score': 1, 'review': 'I jumped across for you'}
+{'score': 1, 'review': "The way you'd play with me like a child"}
+{'score': 1, 'review': 'With trembling hands'}
+{'score': 1, 'review': 'The night'}
+{'score': 1, 'review': 'Just like Kaleidoscope colors that'}
+{'score': 1, 'review': 'To feel slow and kind'}
+{'score': 1, 'review': 'Do you feel the same'}
+{'score': 1, 'review': 'Wedding ring, wedding ring'}
+{'score': 1, 'review': 'I spent my days working, spent my nights drinking, howling at the moon'}
+{'score': 1, 'review': 'She was with another man'}
+{'score': 1, 'review': 'Foreign with me, she a dominatrix (woah)'}
+{'score': 1, 'review': 'But, baby, I broke them all for you'}
+{'score': 1, 'review': "Sumthin' sumthin' (oh yeah yeah)"}
+{'score': 1, 'review': "You're the one that gives your all"}
+{'score': 1, 'review': 'Can you hear me?'}
+{'score': 1, 'review': "Why you frontin' like you ain't got nothing to lose, girl?"}
+{'score': 1, 'review': "(Uh oh, uh oh, uh oh, oh, no, no) I been realer; the game's over"}
+{'score': 1, 'review': 'And honey, I stay stoned on your love all the time'}
+{'score': 1, 'review': 'With all the tides against you'}
+{'score': 1, 'review': 'Makes me miss you more'}
+{'score': 1, 'review': 'Secret keeping, stop the bleeding'}
+{'score': 1, 'review': 'Never your fault'}
+{'score': 1, 'review': 'Love you gonna get hold on me'}
+{'score': 1, 'review': 'Just how much you care'}
+{'score': 1, 'review': 'Be the one to start a fight'}
+{'score': 1, 'review': "God knows we're worthy"}
+{'score': 1, 'review': 'It could be, yeah'}
+{'score': 1, 'review': "I'm gonna give you, I'm gonna give you, yeah"}
+{'score': 1, 'review': "I've known it from the moment that we met"}
+{'score': 1, 'review': 'Seasick and soaked'}
+{'score': 1, 'review': "Give myself an envelope just like it's per diem"}
+{'score': 1, 'review': 'Cause she grew from the drama'}
+{'score': 1, 'review': 'Oh, everyday I want to do a little more'}
+{'score': 1, 'review': 'I wanna know'}
+{'score': 1, 'review': 'Do you know what it feels like to fall in love girl?'}
+{'score': 1, 'review': "I'm just tryna put it down"}
+{'score': 1, 'review': 'But in my head I never thought'}
+{'score': 1, 'review': "But I ain't got much memory of the scenes, come to think"}
+{'score': 1, 'review': "Where you ain't backin' down"}
+{'score': 1, 'review': 'Free animal, free animal'}
+{'score': 1, 'review': "It's a game of give and take"}
+{'score': 1, 'review': 'Whatever comes, comes through clear'}
+{'score': 1, 'review': 'Facing our fear and standing out there alone'}
+{'score': 1, 'review': 'Tell our story'}
+{'score': 1, 'review': 'Cause you and I'}
+{'score': 1, 'review': 'Cause if'}
+{'score': 1, 'review': 'Oh oh oh oh oh'}
+{'score': 1, 'review': 'I adore, you'}
+{'score': 1, 'review': 'Watching clouds form in the distance'}
+{'score': 1, 'review': "But I'm okay in see-through skin"}
+{'score': 1, 'review': 'Somewhere out there,'}
+{'score': 1, 'review': "But I don't read those things anymore"}
+{'score': 1, 'review': 'But you can make me whole again'}
+{'score': 1, 'review': 'Keeping her bright eyes focused on the coastline, waiting for you'}
+{'score': 1, 'review': "Be so heavy on my mind, at times, it's like I'm livin' just to die"}
+{'score': 1, 'review': 'I got nobody left to believe in'}
+{'score': 1, 'review': 'You love your demons, you know I know that'}
+{'score': 1, 'review': "You're still the one I'm after all these years"}
+{'score': 1, 'review': 'You open up your heart'}
+{'score': 1, 'review': 'And all I needed was a call'}
+{'score': 1, 'review': 'I could give you'}
+{'score': 1, 'review': 'I can do just what I like'}
+{'score': 1, 'review': 'Drowning my fears with flat coca cola'}
+{'score': 1, 'review': 'You are my therapy'}
+{'score': 1, 'review': 'Dancing with a distant friend'}
+{'score': 1, 'review': 'It seems'}
+{'score': 1, 'review': "That I can't quite figure out"}
+{'score': 1, 'review': "but he's a fool"}
+{'score': 1, 'review': "I'm in love with you (Answer my prayer)"}
+{'score': 1, 'review': 'How are you doing today, Eltron?'}
+{'score': 1, 'review': 'And my heart is hurting'}
+{'score': 1, 'review': 'Like cinnamon water (water), mixed with marijuana (Marijuana)'}
+{'score': 1, 'review': 'Yes, I am a dreamer too'}
+{'score': 1, 'review': 'I’ll be giving up, oh'}
+{'score': 1, 'review': 'Take me the long way around your town'}
+{'score': 1, 'review': 'I just wanna set you free'}
+{'score': 1, 'review': "And she is the cutest little girl that you've ever seen"}
+{'score': 1, 'review': "But I'm ballin' like a young Maverick"}
+{'score': 1, 'review': "You say it's Jay and Beyonce but I feel like Lucy and Ricky"}
+{'score': 1, 'review': 'I appreciate your value, I just let it up stock'}
+{'score': 1, 'review': "My bad, my bad for, trippin' on you"}
+{'score': 1, 'review': "I'm down (I'm really down)"}
+{'score': 1, 'review': 'Underneath the sunrise (underneath the sunrise)'}
+{'score': 1, 'review': 'We will never be uncovered again'}
+{'score': 1, 'review': "oh but most of all don't lose your love."}
+{'score': 1, 'review': 'Swear to God that I loved her'}
+{'score': 1, 'review': 'Sitting around so lazy,'}
+{'score': 1, 'review': 'And my voice becomes the driving force'}
+{'score': 1, 'review': 'Keep yo'}
+{'score': 1, 'review': 'I hope that we can go from this, yeah'}
+{'score': 1, 'review': "You don't seem to give two shits"}
+{'score': 1, 'review': 'When you think of love, do you think of pain?'}
+{'score': 1, 'review': 'Cause you make me feel so brand new'}
+{'score': 1, 'review': 'Tryna understand your ways'}
+{'score': 1, 'review': "And I'll take you high, high"}
+{'score': 1, 'review': 'I am unafraid'}
+{'score': 1, 'review': "I'm an apostrophe"}
+{'score': 1, 'review': 'You hurt so tenderly'}
+{'score': 1, 'review': 'Is never too much (never too much, never too much, never too much)'}
+{'score': 1, 'review': "Baby don't"}
+{'score': 1, 'review': 'I only know how to satisfy your craving'}
+{'score': 1, 'review': "Pretty woman don't walk away, hey, OK"}
+{'score': 1, 'review': 'A dream that I can call my own'}
+{'score': 1, 'review': "It's fire on fire, oh"}
+{'score': 1, 'review': 'Oh yeah yeah yeah , yeah yeah yeah yeah'}
+{'score': 1, 'review': 'In the old town '}
+{'score': 1, 'review': 'Oooh oh'}
+{'score': 1, 'review': 'Each one there to make you smile'}
+{'score': 1, 'review': "You're on top, I put you on top"}
+{'score': 1, 'review': 'Growing pains from growing up'}
+{'score': 1, 'review': 'Wanna hear'}
+{'score': 1, 'review': 'Come close to me baby'}
+{'score': 1, 'review': 'Something about you now'}
+{'score': 1, 'review': 'Do I make you wanna let your hair down'}
+{'score': 1, 'review': '(Uh-huh, uh-huh, uh)'}
+{'score': 1, 'review': 'Oh, turn the lights turn the lights down low'}
+{'score': 1, 'review': "What you've said"}
+{'score': 1, 'review': 'Talking back when I dropped Corleone'}
+{'score': 1, 'review': 'Whispers in the background'}
+{'score': 1, 'review': 'An everlasting love'}
+{'score': 1, 'review': 'Yeah, yeah, yeah, come on'}
+{'score': 1, 'review': 'I try to make sense of this'}
+{'score': 1, 'review': 'I still belong'}
+{'score': 1, 'review': "But I think that I'm done trippin', I'm trip-trippin'"}
+{'score': 1, 'review': "I ain't missing you (I can lie to myself these days)"}
+{'score': 1, 'review': "Cause everything's so wrong and I don't belong"}
+{'score': 1, 'review': '(Just a little closer)'}
+{'score': 1, 'review': 'Away from me'}
+{'score': 1, 'review': "My niggas said don't get you nothing too expensive"}
+{'score': 1, 'review': "What I'm seeing with my eyes"}
+{'score': 1, 'review': 'I got you, baby (I got you, babe)'}
+{'score': 1, 'review': 'Down dust and pine cone tracks'}
+{'score': 1, 'review': 'You know when you know'}
+{'score': 1, 'review': 'You make me who I wanna be'}
+{'score': 1, 'review': "Nothing's gonna stop me now"}
+{'score': 1, 'review': 'And singing hearts and flowers'}
+{'score': 1, 'review': 'Picture perfect memories'}
+{'score': 1, 'review': "I guess this is a bitter end I didn't see coming"}
+{'score': 1, 'review': "Gravity can't forget"}
+{'score': 1, 'review': "That's how I feel before I get you all alone"}
+{'score': 1, 'review': 'Your smile will always be one of my favorite things'}
+{'score': 1, 'review': 'Pace them!'}
+{'score': 1, 'review': 'But then we love and feel the truth'}
+{'score': 1, 'review': 'My heart, my heart'}
+{'score': 1, 'review': 'You do, you do, you come in waves'}
+{'score': 1, 'review': 'We`ve got to make it last'}
+{'score': 1, 'review': "Don't let me go"}
+{'score': 1, 'review': "And now I'm all up on ya (all up on ya), what you expect? (oh baby)"}
+{'score': 1, 'review': "Drivin' a nightmare I can't escape from"}
+{'score': 1, 'review': 'Blame it'}
+{'score': 1, 'review': "You used to tell me we'd run away together"}
+{'score': 1, 'review': "If you loved me how'd you never learn"}
+{'score': 1, 'review': "It's not what this life's all about"}
+{'score': 1, 'review': "You're in my heart"}
+{'score': 1, 'review': 'And laugh at all the lovers and their plans'}
+{'score': 1, 'review': 'When you be all alone, at least you know I got ya'}
+{'score': 1, 'review': 'You been on my mind ever since'}
+{'score': 1, 'review': 'How to make it better (make it better)'}
+{'score': 1, 'review': 'I need your body in ways'}
+{'score': 1, 'review': 'I need you now'}
+{'score': 1, 'review': 'But I was never one for short endings are cheap goodbyes'}
+{'score': 1, 'review': 'Not to say, but if you only knew '}
+{'score': 1, 'review': 'I got that sinking, sinking, same feeling'}
+{'score': 1, 'review': "Tryin' to save a part of you"}
+{'score': 1, 'review': 'I wanna take you somewhere so you know I care'}
+{'score': 1, 'review': 'Wishing I could turn back to ahead of time'}
+{'score': 1, 'review': "I'm the dark in need of light"}
+{'score': 1, 'review': 'Got this one girl from Texas, she shit on all of my exes'}
+{'score': 1, 'review': "I'ma love you differently"}
+{'score': 1, 'review': 'Come on now, follow my lead'}
+{'score': 1, 'review': 'That’s why'}
+{'score': 1, 'review': 'Switch it up, flip it up, betcha like that'}
+{'score': 1, 'review': 'Is not the words I want to hear from you '}
+{'score': 1, 'review': "All of this time I should've figured it out"}
+{'score': 1, 'review': 'It ties us back together in the end'}
+{'score': 1, 'review': 'These boundaries with you are no fun'}
+{'score': 1, 'review': 'My head shakes and then the penny drops'}
+{'score': 1, 'review': 'My heart'}
+{'score': 1, 'review': 'Come and ride on me like the waves'}
+{'score': 1, 'review': 'Before I had you this shit was fantasy'}
+{'score': 1, 'review': 'All alone with your demons'}
+{'score': 1, 'review': 'Away, away'}
+{'score': 1, 'review': 'If the sky that we look upon'}
+{'score': 1, 'review': 'Oh oh oh, oh oh oh yeah'}
+{'score': 1, 'review': 'Slowly now we begin to move'}
+{'score': 1, 'review': 'Thrown away my heart'}
+{'score': 1, 'review': 'All these'}
+{'score': 1, 'review': 'I still beleive in crazy love'}
+{'score': 1, 'review': 'The road is long'}
+{'score': 1, 'review': '(Better than this)'}
+{'score': 1, 'review': "It's been three weeks at least, now, since I've been gone"}
+{'score': 1, 'review': 'Ooh, yeah, ooh'}
+{'score': 1, 'review': 'Got so much patience (patience)'}
+{'score': 1, 'review': 'All this'}
+{'score': 1, 'review': 'our fists are wider.'}
+{'score': 1, 'review': 'And right now is the perfect time to say'}
+{'score': 1, 'review': 'Caught, we were caught up in the high, it was better than drugs'}
+{'score': 1, 'review': 'I want to raise your spirits'}
+{'score': 1, 'review': "You can't hide feeling inside"}
+{'score': 1, 'review': 'Lay your worry down'}
+{'score': 1, 'review': 'As long as you want me to'}
+{'score': 1, 'review': 'So tell me, boy, if you can feel it'}
+{'score': 1, 'review': "You were the perfect all American girl wouldn't touch me even if you could"}
+{'score': 1, 'review': 'But you always believe in me'}
+{'score': 1, 'review': "It's the"}
+{'score': 1, 'review': "You can't hurry love"}
+{'score': 1, 'review': 'Just saying this'}
+{'score': 1, 'review': 'I wanna get you alone'}
+{'score': 1, 'review': 'Whatever you do'}
+{'score': 1, 'review': 'Yeah I'}
+{'score': 1, 'review': "Can't get over, can't get over "}
+{'score': 1, 'review': "See nothin', it don't matters"}
+{'score': 1, 'review': 'That salvation lets their wings unfold'}
+{'score': 1, 'review': "And there's a message that I'm sending out"}
+{'score': 1, 'review': "I heard there was someone but I know he don't deserve you"}
+{'score': 1, 'review': 'Oh how I feel so sad'}
+{'score': 1, 'review': 'I was young, I was dumb, I was so immature'}
+{'score': 1, 'review': 'She checks out Mozart while she does tae-bo'}
+{'score': 1, 'review': "I'll be your sunshine"}
+{'score': 1, 'review': 'Thought I saw you at a bar last night'}
+{'score': 1, 'review': 'Baby, is that lost on you?'}
+{'score': 1, 'review': "Colors your eyes with what's not there"}
+{'score': 1, 'review': 'And, baby, we can get comfortable, yeah'}
+{'score': 1, 'review': "(Been wishin' for love) ooh, ooh "}
+{'score': 1, 'review': 'You appear just like a dream to me'}
+{'score': 1, 'review': "I'm losing you "}
+{'score': 1, 'review': "I know I've given up"}
+{'score': 1, 'review': "As long as you're lovin' me baby"}
+{'score': 1, 'review': "I want you to stay, even though you don't want me"}
+{'score': 1, 'review': 'Instead of the gallows of heartache that hang from above'}
+{'score': 1, 'review': "I know when I die you'll be on my mind"}
+{'score': 1, 'review': 'They know what I like though'}
+{'score': 1, 'review': "Ooh, there's no way that someone else could make me ever"}
+{'score': 1, 'review': "She's the dreamer's dream"}
+{'score': 1, 'review': "And said that I can't hold on"}
+{'score': 1, 'review': "Cause it's going down"}
+{'score': 1, 'review': "I'm in love with you, and all your little things"}
+{'score': 1, 'review': 'If your soul can pay the toll'}
+{'score': 1, 'review': 'My lickle chocolate delight.'}
+{'score': 1, 'review': 'I bought a ring and she said I do'}
+{'score': 1, 'review': 'From death to life, through you alone'}
+{'score': 1, 'review': "I've been waiting for you"}
+{'score': 1, 'review': 'Alive today'}
+{'score': 1, 'review': 'On and on, and on, and on, life is what you make it'}
+{'score': 1, 'review': 'No one else, no one else'}
+{'score': 1, 'review': 'For years and years and years and years'}
+{'score': 1, 'review': 'Used to love you like the world would end'}
+{'score': 1, 'review': 'I traveled many roads'}
+{'score': 1, 'review': 'Put my'}
+{'score': 1, 'review': "Dark hair wavin' out the passenger side"}
+{'score': 1, 'review': 'Run away with my heart'}
+{'score': 1, 'review': 'The way you looked at me, girl it took my breath away'}
+{'score': 1, 'review': "They say that time's supposed to heal ya"}
+{'score': 1, 'review': 'Cigarettes in the ash tray'}
+{'score': 1, 'review': 'Lips generous and warm'}
+{'score': 1, 'review': "And we'll go go go go go"}
+{'score': 1, 'review': 'But every time you hurt me, the less that I cry'}
+{'score': 1, 'review': "I don't wanna play no more."}
+{'score': 1, 'review': 'That David played and it pleased the Lord'}
+{'score': 1, 'review': 'Close your eyes, give me your hand'}
+{'score': 1, 'review': "And I've"}
+{'score': 1, 'review': 'Does the feeling seem oh so right'}
+{'score': 1, 'review': "Ain't no stress, no complaints"}
+{'score': 1, 'review': 'Get a little too close'}
+{'score': 1, 'review': "How I'm breaking while you fall asleep"}
+{'score': 1, 'review': "But just look at us holdin' on"}
+{'score': 1, 'review': 'You get that smile when I’m giving you my all'}
+{'score': 1, 'review': 'East side'}
+{'score': 1, 'review': 'But when you love someone'}
+{'score': 1, 'review': "I'd make sure the light defeated the dark"}
+{'score': 1, 'review': 'Gotta, gotta, oh'}
+{'score': 1, 'review': 'She drive me crazy, drive me crazy'}
+{'score': 1, 'review': 'And I know that we need this'}
+{'score': 1, 'review': "Time's catching up"}
+{'score': 1, 'review': "Come rescue me, I'll be waiting"}
+{'score': 1, 'review': 'But yuh fi tell dem tek a hike (tek a hike tek a hike)'}
+{'score': 1, 'review': 'Dick shaped like a banana, hit the g-spot, simple'}
+{'score': 1, 'review': "We've come a long way and yet this is only the beginning"}
+{'score': 1, 'review': 'We are born'}
+{'score': 1, 'review': 'But there is not enough time,'}
+{'score': 1, 'review': 'Find a limb to hang your clothes?'}
+{'score': 1, 'review': 'From a distance I can entertain'}
+{'score': 1, 'review': 'I look and stare so deep in your eyes'}
+{'score': 1, 'review': "Me and you isn't"}
+{'score': 1, 'review': "Can't lose ya"}
+{'score': 1, 'review': 'In two by twos, strangers and lovers headed for the covers, hooking up'}
+{'score': 1, 'review': 'My love is pure'}
+{'score': 1, 'review': 'Oh, take me back to the night we met'}
+{'score': 1, 'review': 'And all of that changed'}
+{'score': 1, 'review': "I'm free from time I've lost my mind"}
+{'score': 1, 'review': 'if I matter at all'}
+{'score': 1, 'review': 'Trying to hold on to your precious love'}
+{'score': 1, 'review': "I know there's pain in your heart"}
+{'score': 1, 'review': 'Though the breezes through the trees'}
+{'score': 1, 'review': "Won't have to drive too far"}
+{'score': 1, 'review': 'Talk to her, send emojis to the pussy'}
+{'score': 1, 'review': 'Traitor? (nope), Loyal to my soil, not a faker? (yup)'}
+{'score': 1, 'review': "Like the way it's meant to be"}
+{'score': 1, 'review': 'Waa crush yuh, but gal dem nuh right fi yuh'}
+{'score': 1, 'review': 'Well he can keep all of Georgia'}
+{'score': 1, 'review': "It's a slow fade, it's a slow fade"}
+{'score': 1, 'review': 'Tryna do what lovers do'}
+{'score': 1, 'review': 'Just get it out your system'}
+{'score': 1, 'review': 'A totally amazing mind'}
+{'score': 1, 'review': 'Fuck you so good you be calling out the Christ'}
+{'score': 1, 'review': 'Oh, ah oh, baby don’t shut me down'}
+{'score': 1, 'review': "Got to be three or four of 'em"}
+{'score': 1, 'review': "Cause you're moving slow"}
+{'score': 1, 'review': 'I want it, I need it, this current between us'}
+{'score': 1, 'review': 'Got me'}
+{'score': 1, 'review': "You know I'm addicted"}
+{'score': 1, 'review': "There's nowhere I'd rather be"}
+{'score': 1, 'review': 'Time will heal those broken eyes,'}
+{'score': 1, 'review': 'I tried spending my nights under'}
+{'score': 1, 'review': 'Can barely stand on my feet'}
+{'score': 1, 'review': 'It will be completely'}
+{'score': 1, 'review': 'Over and over I whisper your name'}
+{'score': 1, 'review': "Let's take a jet to Aruba, I know it sounds nice, ooh"}
+{'score': 1, 'review': 'You was the one wasting love on me everyday, yeah'}
+{'score': 1, 'review': "Just because I'm on my knees and swearing I would change"}
+{'score': 1, 'review': 'Give a little time to me, or burn this out'}
+{'score': 1, 'review': 'Take control'}
+{'score': 1, 'review': 'Over and over, again and again'}
+{'score': 1, 'review': 'Everyone falls in love sometimes'}
+{'score': 1, 'review': "Oh, he is lost, there's no place for beginning"}
+{'score': 1, 'review': 'Never revealing their depth'}
+{'score': 1, 'review': '(Whoa).'}
+{'score': 1, 'review': 'All my days'}
+{'score': 1, 'review': "Look, I don't think I want you to myself"}
+{'score': 1, 'review': 'A solid embrace, kind face'}
+{'score': 1, 'review': 'All that face, makes me wanna party'}
+{'score': 1, 'review': 'I wonder if my mind just keeps (?)'}
+{'score': 1, 'review': 'To satisfy me'}
+{'score': 1, 'review': 'Oh my darling, you were wonderful tonight'}
+{'score': 1, 'review': "We've been conditioned to not make mistakes, but I can't live that way"}
+{'score': 1, 'review': "Wandering 'round this midnight mad house city"}
+{'score': 1, 'review': '(Sierra & China)'}
+{'score': 1, 'review': 'Every day I feel this pain'}
+{'score': 1, 'review': "But these stories don't mean anything"}
+{'score': 1, 'review': "I've got the secret key"}
+{'score': 1, 'review': 'Gave me a year, my first sentence?'}
+{'score': 1, 'review': "I'm more in love with you"}
+{'score': 1, 'review': "To the world we'll testify"}
+{'score': 1, 'review': 'But you came around'}
+{'score': 1, 'review': 'Got no plans to make it stop'}
+{'score': 1, 'review': 'And we were made for each other,'}
+{'score': 1, 'review': 'One for all'}
+{'score': 1, 'review': "Cause this just don't feel right to me"}
+{'score': 1, 'review': "I don't wanna be someone who walks away so easily"}
+{'score': 1, 'review': 'And you know I love you still'}
+{'score': 1, 'review': 'We thought everyone was on our side'}
+{'score': 1, 'review': "The night's so dark and grey"}
+{'score': 1, 'review': 'About the boy who chased the sunset in his unsettling trials'}
+{'score': 1, 'review': 'You make me feel this way somehow'}
+{'score': 1, 'review': 'Something in my heart'}
+{'score': 1, 'review': 'Shine a light through an open door'}
+{'score': 1, 'review': 'So many have tried'}
+{'score': 1, 'review': "We're still together still going strong"}
+{'score': 1, 'review': 'Hey, I oughtta leave young thing alone'}
+{'score': 1, 'review': "Watchin' the ships roll in"}
+{'score': 1, 'review': 'Oh, something in my heart'}
+{'score': 1, 'review': "You can't hide love, you can't now"}
+{'score': 1, 'review': "Just to cure it cause I can't ignore it if it's love (love) "}
+{'score': 1, 'review': "And I might've got to be with one"}
+{'score': 1, 'review': "So why don't I feel like I'm winning?"}
+{'score': 1, 'review': 'Strip it down, really get to know one another'}
+{'score': 1, 'review': 'eyes never once looked cruel'}
+{'score': 1, 'review': "Someone's moving outside"}
+{'score': 1, 'review': 'Every siren that I was ignoring'}
+{'score': 1, 'review': "Oh but you are in my blood you're my holy wine"}
+{'score': 1, 'review': 'I can see it in your eyes'}
+{'score': 1, 'review': "Baby make a wish, be the one I'm with"}
+{'score': 1, 'review': 'Whatever comes our way'}
+{'score': 1, 'review': 'To turn me out'}
+{'score': 1, 'review': 'Leave his texts on read, leave his balls on blue'}
+{'score': 1, 'review': 'Come closer, oh, oh'}
+{'score': 1, 'review': '(True ting!)'}
+{'score': 1, 'review': 'But you can sell your soul'}
+{'score': 1, 'review': 'They'}
+{'score': 1, 'review': "I know you're out in Cabo"}
+{'score': 1, 'review': "Ooh and I can't wait forever baby"}
+{'score': 1, 'review': "This is a man's, a man's, a man's world"}
+{'score': 1, 'review': 'Now that I want to leave'}
+{'score': 1, 'review': 'Try to make a fire burn again'}
+{'score': 1, 'review': "Cause you're just too cool, baby"}
+{'score': 1, 'review': 'Out of the back you fall in time'}
+{'score': 1, 'review': 'Each time we say goodnight'}
+{'score': 1, 'review': 'In my arms is where you should be'}
+{'score': 1, 'review': 'Mmm, ah, mmm, ah, mmm, if you let me touch you'}
+{'score': 1, 'review': 'If the Heavens ever did speak'}
+{'score': 1, 'review': 'Nothing to show for it now'}
+{'score': 1, 'review': "And hope it isn't me who's left behind"}
+{'score': 1, 'review': 'Darling just dive right in'}
+{'score': 1, 'review': 'Oh, we keep circling it never ends'}
+{'score': 1, 'review': 'This time is forever (forever)'}
+{'score': 1, 'review': 'Deserted again'}
+{'score': 1, 'review': "I don't think you want grand gestures"}
+{'score': 1, 'review': "And the crowds don't remember my name"}
+{'score': 1, 'review': 'Something bout the'}
+{'score': 1, 'review': 'I need you right now'}
+{'score': 1, 'review': "I don't need you to worry for me 'cause I'm alright"}
+{'score': 1, 'review': 'Prophesy to the breath'}
+{'score': 1, 'review': "Through us he's given life to one"}
+{'score': 1, 'review': "Don't know where the time went"}
+{'score': 1, 'review': 'Ola '}
+{'score': 1, 'review': "It's never quite as it seems"}
+{'score': 1, 'review': 'To come away with me in the night'}
+{'score': 1, 'review': "I'm right here, yeah, oh, yeah"}
+{'score': 1, 'review': 'A baby being born to the overkill'}
+{'score': 1, 'review': 'From tonight until the end of time'}
+{'score': 1, 'review': 'I know just how strong (every single time)'}
+{'score': 1, 'review': "That if you talk enough sense then you'll lose your mind"}
+{'score': 1, 'review': 'Everything changes'}
+{'score': 1, 'review': "I'll drink alone in my hotel and cry"}
+{'score': 1, 'review': 'I helped you out of a broken place'}
+{'score': 1, 'review': 'Your heart is all I need'}
+{'score': 1, 'review': "Cause I don't wanna lose you now"}
+{'score': 1, 'review': 'May we grow and find our path'}
+{'score': 1, 'review': 'Please stay'}
+{'score': 1, 'review': 'I cannot escape and I cannot forget'}
+{'score': 1, 'review': 'You look to me like I said something wrong, mmh'}
+{'score': 1, 'review': "On the East Side and you know I'm with the gang right now"}
+{'score': 1, 'review': 'When there was talk of getting older'}
+{'score': 1, 'review': "I know I've got to find"}
+{'score': 1, 'review': 'Whip, whip'}
+{'score': 1, 'review': "I'm gettin' older, too"}
+{'score': 1, 'review': "If you're"}
+{'score': 1, 'review': "I'd kill for your love"}
+{'score': 1, 'review': 'Do what you got to do'}
+{'score': 1, 'review': 'Take that pussy, drop it in my lap'}
+{'score': 1, 'review': "Out in the shinin' sun of the summer"}
+{'score': 1, 'review': "I'd be your world"}
+{'score': 1, 'review': 'But this girl meets boy, girl don’t make it harder than it has to be'}
+{'score': 1, 'review': "And I can't breathe"}
+{'score': 1, 'review': 'This roller coaster'}
+{'score': 1, 'review': "If I've gone overboard"}
+{'score': 1, 'review': "If you tossin' and you're turnin' and you just can't fall asleep"}
+{'score': 1, 'review': "And I don't know what I would do without you and that's no lie"}
+{'score': 1, 'review': "Cause I can never keep up quad vods now I'm puking up"}
+{'score': 1, 'review': "You gon' bring me to the first time we fucked on the futon"}
+{'score': 1, 'review': "That's the reason that I ride on my Appas"}
+{'score': 1, 'review': 'But take me all the way, if you can take me all the way'}
+{'score': 1, 'review': '(No not for)'}
+{'score': 1, 'review': 'Yesterday is history'}
+{'score': 1, 'review': "I'm begging for us"}
+{'score': 1, 'review': 'Like puzzle pieces from the clay'}
+{'score': 1, 'review': "I hope someday you'll join us"}
+{'score': 1, 'review': "You're the fear, I don't care"}
+{'score': 1, 'review': "You fell for men who weren't how they appeared, yeah"}
+{'score': 1, 'review': 'This is hungry work'}
+{'score': 1, 'review': 'I give you the breath'}
+{'score': 1, 'review': '(You know, just know what I like)'}
+{'score': 1, 'review': 'Listening to your message I’m keeping'}
+{'score': 1, 'review': "There's just not enough"}
+{'score': 1, 'review': 'So what'}
+{'score': 1, 'review': "You're every minute of my everyday"}
+{'score': 1, 'review': 'I wanna be your nasty man'}
+{'score': 1, 'review': 'The one that makes me scream she said'}
+{'score': 1, 'review': 'And once again'}
+{'score': 1, 'review': 'Turn the lights down low'}
+{'score': 1, 'review': 'And she only reveals what she wants you to see'}
+{'score': 1, 'review': 'I got a hard head but her ass soft'}
+{'score': 1, 'review': 'You can never let me go'}
+{'score': 1, 'review': "And they didn't even put up a fight"}
+{'score': 1, 'review': 'Waste the day and spend the night (yeah, yeah)'}
+{'score': 1, 'review': 'I got [?] for you'}
+{'score': 1, 'review': "(I'll love you more in the rain or shine)"}
+{'score': 1, 'review': "Sista with a certain sumthin' sumthin'"}
+{'score': 1, 'review': "So I won't kiss nobody (nobody), until you come back home (oh)"}
+{'score': 1, 'review': "Because she's casual, she likes it"}
+{'score': 1, 'review': "I'll keep stealing, breathing her"}
+{'score': 1, 'review': 'To myself, yeah'}
+{'score': 1, 'review': "I've been here, I've done this all before"}
+{'score': 1, 'review': 'We could have lived this dance forever'}
+{'score': 1, 'review': 'And fellow, so did you'}
+{'score': 1, 'review': 'Wonder if it makes any difference at all, I know'}
+{'score': 1, 'review': "And i don't know, but lately I'm like baby maybe maybe maybe"}
+{'score': 1, 'review': "Down by home, I've seen this road before"}
+{'score': 1, 'review': "If I'm being honest"}
+{'score': 1, 'review': "I don't know about my loving anymore."}
+{'score': 1, 'review': "I don't know where I belong"}
+{'score': 1, 'review': "I'll return the favour"}
+{'score': 1, 'review': 'You inspire'}
+{'score': 1, 'review': 'We got telepathy'}
+{'score': 1, 'review': 'Give it all, oh'}
+{'score': 1, 'review': "I'm not moving, I'm not moving"}
+{'score': 1, 'review': "Can't stop thinking 'bout it"}
+{'score': 1, 'review': "I ain't worried 'bout nothin'"}
+{'score': 1, 'review': "You be calling all your homegirls like I'm his wife"}
+{'score': 1, 'review': "I'll give it to you night and day"}
+{'score': 1, 'review': 'The moon its glow'}
+{'score': 1, 'review': 'Make love to me'}
+{'score': 1, 'review': 'From dusk till dawn'}
+{'score': 1, 'review': 'Sweet little do-dee-do-dee'}
+{'score': 1, 'review': 'You are my only one'}
+{'score': 1, 'review': 'Catching things and eating their insides'}
+{'score': 1, 'review': 'Fill my cup with endless ambition'}
+{'score': 1, 'review': "(I'm not moving) and you'll see me waiting for you on our corner of the street"}
+{'score': 1, 'review': 'Yeah, oh, yeah, oh, no'}
+{'score': 1, 'review': 'Before you, baby, I was numb, drown the pain by pouring up'}
+{'score': 1, 'review': 'To make it on through'}
+{'score': 1, 'review': 'To be right where you are'}
+{'score': 1, 'review': "If the lord don't forgive me"}
+{'score': 1, 'review': 'Come on, come on, come on, yeah'}
+{'score': 1, 'review': 'I like what you like'}
+{'score': 1, 'review': 'Oh, I hold you for a million years'}
+{'score': 1, 'review': 'Plus I have a teacher'}
+{'score': 1, 'review': 'Paint wetter than a lake (yup)'}
+{'score': 1, 'review': 'Think I can change'}
+{'score': 1, 'review': "It's big enough, make me (drip, drip)"}
+{'score': 1, 'review': 'Like this morning reveals to me'}
+{'score': 1, 'review': 'I gotta go home'}
+{'score': 1, 'review': 'This flow, this feeling tonight'}
+{'score': 1, 'review': 'Girl, put your number on this paper'}
+{'score': 1, 'review': 'And break some rules'}
+{'score': 1, 'review': 'I know, I know, I know this much is true'}
+{'score': 1, 'review': 'Take my breath away'}
+{'score': 1, 'review': "I'm not saying I'm gone"}
+{'score': 1, 'review': "Don't be scared, I'ma take you there"}
+{'score': 1, 'review': "These niggas be hatin', I already know"}
+{'score': 1, 'review': 'I love you, I love you, I love you'}
+{'score': 1, 'review': 'Remember?'}
+{'score': 1, 'review': 'And humble little too hmm hmm'}
+{'score': 1, 'review': "And the world can't erase his fantasies"}
+{'score': 1, 'review': 'When two hearts get broke'}
+{'score': 1, 'review': 'Lying in your arms'}
+{'score': 1, 'review': "See it's very divine, girl"}
+{'score': 1, 'review': "I know, I know, I know you think it's me, 'cause I want it all"}
+{'score': 1, 'review': 'And a million miles'}
+{'score': 1, 'review': 'Every breath you take'}
+{'score': 1, 'review': 'I just toured, I just balled'}
+{'score': 1, 'review': 'Between the both of us'}
+{'score': 1, 'review': 'Screaming at the street lights'}
+{'score': 1, 'review': "When I'm super low you pull me higher"}
+{'score': 1, 'review': "I could give a fuck ‘bout the club, 'cause that pussy tight"}
+{'score': 1, 'review': "They're hanging forever, there"}
+{'score': 1, 'review': 'Where the eagles cry'}
+{'score': 1, 'review': 'I want to say ...'}
+{'score': 1, 'review': "(What are you doin', to me? What are you doin', huh?)"}
+{'score': 1, 'review': "I'm the man who can't be moved"}
+{'score': 1, 'review': 'i can see you and i way beyond the stars, girl'}
+{'score': 1, 'review': 'But when I stand beside her'}
+{'score': 1, 'review': 'As the lights came on there was nowhere else to go'}
+{'score': 1, 'review': 'Come on home and let yourself heal'}
+{'score': 1, 'review': "I know what's up"}
+{'score': 1, 'review': 'So many hoes in my face, I could pick one'}
+{'score': 1, 'review': 'She told me that she tryna get closer to Satan'}
+{'score': 1, 'review': "Don't have to be cool"}
+{'score': 1, 'review': 'Time will bring the real end of our trial'}
+{'score': 1, 'review': "Cause I got the feeling you're walking out"}
+{'score': 1, 'review': 'I-I-I can see it in your eye'}
+{'score': 1, 'review': 'Come here'}
+{'score': 1, 'review': "Even when we know it's wrong"}
+{'score': 1, 'review': 'You put it back together'}
+{'score': 1, 'review': 'She might be my cocaine'}
+{'score': 1, 'review': "Why won't you ever know that I'm in love with you?"}
+{'score': 1, 'review': 'Bet if we made love like we always knew each other (yeah)'}
+{'score': 1, 'review': 'So she fessed up, told me'}
+{'score': 1, 'review': 'Take me, take me with you'}
+{'score': 1, 'review': "But he wasn't a match"}
+{'score': 1, 'review': 'Where you go I follow'}
+{'score': 1, 'review': 'Through the shadows of the night'}
+{'score': 1, 'review': 'I believe most people are good'}
+{'score': 1, 'review': 'Lighter on your feet'}
+{'score': 1, 'review': "Hey, I don't know much about guns but I"}
+{'score': 1, 'review': 'Drive a little too slow, take the long way home'}
+{'score': 1, 'review': 'When we touch'}
+{'score': 1, 'review': "Baby I'm addicted"}
+{'score': 1, 'review': 'And boy your look it tastes like a night of champagne'}
+{'score': 1, 'review': 'saramdeulgwa usdaga'}
+{'score': 1, 'review': 'Wait for it, wait for it)'}
+{'score': 1, 'review': 'Ooh, girl, that would make me feel so right'}
+{'score': 1, 'review': "You'll walk"}
+{'score': 1, 'review': 'i only play it for-real'}
+{'score': 1, 'review': 'Take it easy'}
+{'score': 1, 'review': 'Hey you gal you makin me sing, sing like ding-a-ling-ling.'}
+{'score': 1, 'review': 'Cause I got these vic-good and verses'}
+{'score': 1, 'review': "I'm gonna love you, yeah"}
+{'score': 1, 'review': "I'm feeling like I've missed you all this time"}
+{'score': 1, 'review': "But hold up, girl, don't you know you're beautiful?"}
+{'score': 1, 'review': 'Control me (Control me), just hold me (Hold me)'}
+{'score': 1, 'review': 'I be home all week, so for a week she in stilettos'}
+{'score': 1, 'review': 'I know you hate it when I leave the light on'}
+{'score': 1, 'review': 'And at work I just take time'}
+{'score': 1, 'review': "Well, I can't forget this evening or your face as you were leaving"}
+{'score': 1, 'review': 'Picking up'}
+{'score': 1, 'review': 'Suitcases of memories'}
+{'score': 1, 'review': '(And the great divide)'}
+{'score': 1, 'review': 'Gets worse with every letter, letter'}
+{'score': 1, 'review': 'Stop this heartbreak overload'}
+{'score': 1, 'review': 'A smile reflected in a stream '}
+{'score': 1, 'review': 'I laid on the coach'}
+{'score': 1, 'review': 'I am afraid'}
+{'score': 1, 'review': 'But when I saw you, I felt something I never felt'}
+{'score': 1, 'review': 'And angels sing'}
+{'score': 1, 'review': 'A taste of love to'}
+{'score': 1, 'review': "Somebody that you don't mind talkin' to"}
+{'score': 1, 'review': "But that ain't what you want"}
+{'score': 1, 'review': 'When the mirror crashed I called you'}
+{'score': 1, 'review': 'Shea Butter Baby, fucking up your sheets'}
+{'score': 1, 'review': "So if it's cool I wanna rock with you (R-O-C-K with you, baby)"}
+{'score': 1, 'review': "But baby, I'm by your side (Uh huh)"}
+{'score': 1, 'review': 'Take me by the hand'}
+{'score': 1, 'review': 'So the bar is where I go'}
+{'score': 1, 'review': "Thinkin' of some kids"}
+{'score': 1, 'review': 'Pick it up,'}
+{'score': 1, 'review': 'Lady take me by the hand'}
+{'score': 1, 'review': 'I shed my tears, fuck the tissues'}
+{'score': 1, 'review': 'Heart open, testify'}
+{'score': 1, 'review': 'The son of tears'}
+{'score': 1, 'review': 'To see your sad and teary eyes'}
+{'score': 1, 'review': "Guess it wasn't meant to be But baby..."}
+{'score': 1, 'review': 'I could think about a hundred things I could be doing right now'}
+{'score': 1, 'review': "Can count the ways I've made you cry"}
+{'score': 1, 'review': "I swear ain't no love, no love"}
+{'score': 1, 'review': 'Cause even when I dream of you'}
+{'score': 1, 'review': "Til there's no wrong side to get up on"}
+{'score': 1, 'review': "And the band won't play"}
+{'score': 1, 'review': 'Might never'}
+{'score': 1, 'review': 'But it could be love'}
+{'score': 1, 'review': "Hey why don't you wait?"}
+{'score': 1, 'review': 'They would wish me one more day to stay'}
+{'score': 1, 'review': 'Sleep? (nope), Bust moves, hella active in the streets? (yup)'}
+{'score': 1, 'review': 'And Gibraltar it may tumble'}
+{'score': 1, 'review': 'The book of love has music in it'}
+{'score': 1, 'review': 'Baby girl, women shine'}
+{'score': 1, 'review': 'Cling to me girl'}
+{'score': 1, 'review': 'Like a rainbow'}
+{'score': 1, 'review': "I don't know how you do what you do"}
+{'score': 1, 'review': "I'd be falling for somewhere I've never been"}
+{'score': 1, 'review': "On repeat 'cause we don't listen when we talk (don't listen when we talk)"}
+{'score': 1, 'review': 'Somebody find me'}
+{'score': 1, 'review': "Don't know what to do"}
+{'score': 1, 'review': "Know you're safe in my arms, give a fuck what they want"}
+{'score': 1, 'review': "And I'm gettin' older, too"}
+{'score': 1, 'review': "She's so beautiful, and I tell her everyday"}
+{'score': 1, 'review': 'And now we'}
+{'score': 1, 'review': 'Oh my love, a million days in your arms'}
+{'score': 1, 'review': "It's like smiling when the firing squad's against you"}
+{'score': 1, 'review': "Then I'm begging you"}
+{'score': 1, 'review': "Cause tonight is the night that I'm feeling alright"}
+{'score': 1, 'review': "You've been here for a while now"}
+{'score': 1, 'review': 'But now you never show that to me do ya'}
+{'score': 1, 'review': "Cause knowing me, I'd always run"}
+{'score': 1, 'review': "You're the only one I see"}
+{'score': 1, 'review': 'You make me happy with the things you do'}
+{'score': 1, 'review': 'Girl, if only I could make you see'}
+{'score': 1, 'review': 'No question'}
+{'score': 1, 'review': "You may say that I'm a dreamer"}
+{'score': 1, 'review': 'And I say, Yes, I feel wonderful tonight'}
+{'score': 1, 'review': 'When I want you in my world'}
+{'score': 1, 'review': "I'll never break your heart"}
+{'score': 1, 'review': 'Told me to be lactose tolerant'}
+{'score': 1, 'review': 'And you were tired of a love fit for a theme park ride'}
+{'score': 1, 'review': 'This old house is bound to fall'}
+{'score': 1, 'review': 'But they may as well be in vain'}
+{'score': 1, 'review': 'Ooh, ah'}
+{'score': 1, 'review': 'You picture buildings burning to the ground'}
+{'score': 1, 'review': "Between leading ya on and holdin' your hand"}
+{'score': 1, 'review': 'Trace my finger on the map'}
+{'score': 1, 'review': "Love is ended before it's begun"}
+{'score': 1, 'review': 'Staring each other down'}
+{'score': 1, 'review': 'Was like a cold dark cloud'}
+{'score': 1, 'review': 'I practice every day to find some clever lines to say'}
+{'score': 1, 'review': "Or your nails leaving love's watermark"}
+{'score': 1, 'review': 'I know where you hide alone in your car '}
+{'score': 1, 'review': "You're the meaning in my life"}
+{'score': 1, 'review': 'Wait until you taste me'}
+{'score': 1, 'review': 'You’re my downfall, you’re my muse'}
+{'score': 1, 'review': '(Holla)'}
+{'score': 1, 'review': "Looking so crazy in love's"}
+{'score': 1, 'review': 'Balcony, off the beach, pack your bags (bags)'}
+{'score': 1, 'review': "Sexual healing is something that's good for me"}
+{'score': 1, 'review': "That's a bum bitch that you chasin', ayy"}
+{'score': 1, 'review': 'Let a nigga inside, baby, let a nigga inside tonight'}
+{'score': 1, 'review': 'To keep good love from going wrong'}
+{'score': 1, 'review': 'The moment we can have'}
+{'score': 1, 'review': "Don't mind if you leave me as long as you come back home"}
+{'score': 1, 'review': 'Learn to text with your nose if your thumb broke'}
+{'score': 1, 'review': 'But darling, stay with me'}
+{'score': 1, 'review': 'And we both know better'}
+{'score': 1, 'review': 'Can you still feel the butterflies? '}
+{'score': 1, 'review': "And you ain't hit me up in a while"}
+{'score': 1, 'review': '(thanks for saving this afternoon)'}
+{'score': 1, 'review': "Hatin', but they're still tryna take our cadence (woah)"}
+{'score': 1, 'review': 'Oh dear I, baby'}
+{'score': 1, 'review': 'For all the Georgia peaches in Decatur'}
+{'score': 1, 'review': 'Cover me, all I need'}
+{'score': 1, 'review': 'But I still do'}
+{'score': 1, 'review': 'Somebody tell me the answers'}
+{'score': 1, 'review': "You'll be my valentine in the summer"}
+{'score': 1, 'review': 'But I know you in the worst way'}
+{'score': 1, 'review': 'Love is blind'}
+{'score': 1, 'review': 'If I can stand straight'}
+{'score': 1, 'review': "I'm sure I'm not being rude"}
+{'score': 1, 'review': "(I'm not moving) thinkin' maybe you'll come back here to the place that we'd meet"}
+{'score': 1, 'review': 'Cause I know in the end'}
+{'score': 1, 'review': 'Fast forward a couple years, yeah'}
+{'score': 1, 'review': "I've never truly loved 'till you put your arms around me"}
+{'score': 1, 'review': "Yeah it's over, it's over"}
+{'score': 1, 'review': 'Behind the scenes and in the details'}
+{'score': 1, 'review': 'I laughed, and you smiled'}
+{'score': 1, 'review': "Should've been hanging on your every word"}
+{'score': 1, 'review': 'Cause I know it turn you on, I had to do it, babe'}
+{'score': 1, 'review': 'My mind after the tide/time (?)'}
+{'score': 1, 'review': "Even though you say you won't lie down"}
+{'score': 1, 'review': "I'll never let your head hit the bed"}
+{'score': 1, 'review': "I can't change the way things are"}
+{'score': 1, 'review': 'How she grinding, tryin fi keep mi out,'}
+{'score': 1, 'review': 'Every time I see you, I die a little more'}
+{'score': 1, 'review': 'Would you let me see beneath your beautiful'}
+{'score': 1, 'review': 'Keep your body still'}
+{'score': 1, 'review': 'They must be getting tired'}
+{'score': 1, 'review': 'Hold me tight'}
+{'score': 1, 'review': "Girl I'm"}
+{'score': 1, 'review': 'Finding reasons not to leave'}
+{'score': 1, 'review': '‘Cause its vows are good'}
+{'score': 1, 'review': 'We was tryna get to the top, and they tried to stop us'}
+{'score': 1, 'review': 'That the both of us'}
+{'score': 1, 'review': 'Stranded, reaching out'}
+{'score': 1, 'review': 'I even got this college girl, who give immaculate head'}
+{'score': 1, 'review': 'But if she fuck another nigga'}
+{'score': 1, 'review': 'Oh yeah, you are my sober'}
+{'score': 1, 'review': "I know we're only half way there"}
+{'score': 1, 'review': "I've tried to hide it so that no one knows"}
+{'score': 1, 'review': 'Surrounded us in memories'}
+{'score': 1, 'review': 'Yeah, I wanna dance with somebody'}
+{'score': 1, 'review': 'Virgin Mary, scarlet letter'}
+{'score': 1, 'review': "Dancing with her eyes closed like she's the only one in the room"}
+{'score': 1, 'review': "Damn, damn (could've been)"}
+{'score': 1, 'review': 'Oh, I'}
+{'score': 1, 'review': 'She plays it tough '}
+{'score': 1, 'review': 'I would be lying if I said'}
+{'score': 1, 'review': 'Just make sure you pass it'}
+{'score': 1, 'review': 'Pretty young thing'}
+{'score': 1, 'review': "I'd give you the flowers"}
+{'score': 1, 'review': 'Wear it so well'}
+{'score': 1, 'review': 'Forgave me for all of my shortcomings'}
+{'score': 1, 'review': "Ain't no need for searching, and for that, I say"}
+{'score': 1, 'review': 'Hoes ain’t loyal, know these bitches, they ain’t shit'}
+{'score': 1, 'review': 'Afraid that I have come here'}
+{'score': 1, 'review': 'You already know, already know, already know that you won, oh'}
+{'score': 1, 'review': 'Caring now, caring now like you do'}
+{'score': 1, 'review': 'This heart of mine would be grievin`.'}
+{'score': 1, 'review': "You're a mystery"}
+{'score': 1, 'review': 'In my heart, in my bones and in my soul'}
+{'score': 1, 'review': "Is here in your perfect eyes, they're all I can see"}
+{'score': 1, 'review': 'Loving can hurt, loving can hurt sometimes'}
+{'score': 1, 'review': 'With the devil that it chose'}
+{'score': 1, 'review': "And I know that it's really for myself"}
+{'score': 1, 'review': "I'll sing this song for you"}
+{'score': 1, 'review': 'Pull up your bumper, cock up your waist, oh yeah'}
+{'score': 1, 'review': "You're such a hard act for me to follow"}
+{'score': 1, 'review': 'Sweet creature,'}
+{'score': 1, 'review': 'And it was called Yellow'}
+{'score': 1, 'review': 'I know this much is true'}
+{'score': 1, 'review': 'I know things will get better'}
+{'score': 1, 'review': 'So much'}
+{'score': 1, 'review': 'Too much of anything is not good for you, baby'}
+{'score': 1, 'review': 'The ones I been through, but never loved you'}
+{'score': 1, 'review': "Reminds me that there's a-room to grow, hey, hey, yeah"}
+{'score': 1, 'review': 'Last night you were in my room'}
+{'score': 1, 'review': 'So disappear now, I won’t get in your way'}
+{'score': 1, 'review': "Just come back when you think it's time"}
+{'score': 1, 'review': 'Tell me every time you think about ya'}
+{'score': 1, 'review': 'It takes and it takes and it takes'}
+{'score': 1, 'review': 'Are you into me?'}
+{'score': 1, 'review': 'You warned me that life changes'}
+{'score': 1, 'review': 'You in my way now'}
+{'score': 1, 'review': 'Got me looking so crazy right now, your touch'}
+{'score': 1, 'review': "You're still looking like the baddest thing I done seen"}
+{'score': 1, 'review': 'I see you C'}
+{'score': 1, 'review': "I'm the king of the castle"}
+{'score': 1, 'review': 'Ooh ooh we bundled up'}
+{'score': 1, 'review': 'Think about it every time'}
+{'score': 1, 'review': 'Oooooo'}
+{'score': 1, 'review': 'Playlist playing'}
+{'score': 1, 'review': 'Well, the pleasure - the privilege is mine '}
+{'score': 1, 'review': '(Nobody, nobody, nobody) nobody compares to you'}
+{'score': 1, 'review': 'In your arms, in your arms'}
+{'score': 1, 'review': 'We go to the river and find us a spot and we probably went a little too far'}
+{'score': 1, 'review': 'You make your plans and you hear god laughing'}
+{'score': 1, 'review': "So she said what's the problem baby"}
+{'score': 1, 'review': "I don't wanna come across as too dramatic"}
+{'score': 1, 'review': 'My reflection, in everything I do'}
+{'score': 1, 'review': 'Only shadows ahead barely clearing the roof'}
+{'score': 1, 'review': 'Deep into the night, eyes closing'}
+{'score': 1, 'review': 'Before the day that they met yours'}
+{'score': 1, 'review': 'Ooh, and it was over once I flipped you over'}
+{'score': 1, 'review': 'Take my body'}
+{'score': 1, 'review': "It's alright"}
+{'score': 1, 'review': 'Big mistake, broke the sweetest promise'}
+{'score': 1, 'review': "But from the outside looking in I say I'd move mountains!"}
+{'score': 1, 'review': 'When I saw you in that dress, looking so beautiful'}
+{'score': 1, 'review': "She pushed my legs up high I didn't fight it"}
+{'score': 1, 'review': 'Cause I know you, yeah I know you'}
+{'score': 1, 'review': 'She is something to behold'}
+{'score': 1, 'review': 'My worst distraction, my rhythm and blues'}
+{'score': 1, 'review': 'Give a little light'}
+{'score': 1, 'review': "I couldn't hope to say how I feel"}
+{'score': 1, 'review': 'Confused about how as well'}
+{'score': 1, 'review': 'When I taste Tequila'}
+{'score': 1, 'review': "And waste the chance that I've been given"}
+{'score': 1, 'review': "Money wouldn't stop me"}
+{'score': 1, 'review': "I know we don't have long, but I'll take what I can get"}
+{'score': 1, 'review': "I can't wait 'til the morning has come"}
+{'score': 1, 'review': "But now I'm feeling it even more"}
+{'score': 1, 'review': 'With someone'}
+{'score': 1, 'review': 'And you give me all of you'}
+{'score': 1, 'review': 'You take a drunk girl home'}
+{'score': 1, 'review': 'Lay your'}
+{'score': 1, 'review': "Yours are the sweetest eyes I've ever seen"}
+{'score': 1, 'review': "When I'm deep inside of me"}
+{'score': 1, 'review': "I'm just too far from where you are"}
+{'score': 1, 'review': 'Does the smell of a cottonwood tree ever remind you'}
+{'score': 1, 'review': 'What a good idea'}
+{'score': 1, 'review': 'Just love me'}
+{'score': 1, 'review': 'You will always be around'}
+{'score': 1, 'review': "It's always been her claim to fame"}
+{'score': 1, 'review': 'Then tell me just what will I do'}
+{'score': 1, 'review': 'Every time I put my arms around you'}
+{'score': 1, 'review': "Feels like I've been awakened"}
+{'score': 1, 'review': "Baby, I don't know why you're treating me so bad"}
+{'score': 1, 'review': "Said it's so good lovin' somebody"}
+{'score': 1, 'review': 'In my haste'}
+{'score': 1, 'review': 'Please let me bring my man'}
+{'score': 1, 'review': "Don't you know now is the perfect time"}
+{'score': 1, 'review': "I know I keep you amused but I feel I'm being used"}
+{'score': 1, 'review': 'But this was not your dream'}
+{'score': 1, 'review': 'That makes me feel invincible like a child'}
+{'score': 1, 'review': 'No-one compares to you'}
+{'score': 1, 'review': "Cool my fire yearnin'"}
+{'score': 1, 'review': 'When I saw you'}
+{'score': 1, 'review': 'Open my eyes'}
+{'score': 1, 'review': 'But since it falls unto my lot'}
+{'score': 1, 'review': 'Make it last forever (No, no, no, no, no, no)'}
+{'score': 1, 'review': 'Make you feel you can’t feel like a man'}
+{'score': 1, 'review': "(Maybe I'll forgive you)"}
+{'score': 1, 'review': 'I wish that I could I let you love me'}
+{'score': 1, 'review': 'Watching I keep waiting'}
+{'score': 1, 'review': 'And if you fall as Lucifer fell'}
+{'score': 1, 'review': 'There goes the ending'}
+{'score': 1, 'review': "Cause I know it turn you on, so let's do it, babe"}
+{'score': 1, 'review': 'Love is not a word that the world know,'}
+{'score': 1, 'review': "Well, baby, baby, baby (I'm really down)"}
+{'score': 1, 'review': 'Touching my skin'}
+{'score': 1, 'review': 'It is the only thing makes us feel alive'}
+{'score': 1, 'review': 'Cause I would love to take you up'}
+{'score': 1, 'review': 'Oh baby'}
+{'score': 1, 'review': "I need to feel something, 'cause I'm still so far from home"}
+{'score': 1, 'review': "She's so"}
+{'score': 1, 'review': 'When we danced so free'}
+{'score': 1, 'review': 'the tools'}
+{'score': 1, 'review': 'Try as I may I could never explain'}
+{'score': 1, 'review': "Oh please don't stop loving me, loving me"}
+{'score': 1, 'review': 'Hard to keep it PG with a nigga like me, Goddamn'}
+{'score': 1, 'review': "Just what you're worth "}
+{'score': 1, 'review': 'Buying rounds'}
+{'score': 1, 'review': 'I come into you'}
+{'score': 1, 'review': 'Just the other day'}
+{'score': 1, 'review': 'Be the things that we regret'}
+{'score': 1, 'review': 'i want to know how it feels'}
+{'score': 1, 'review': 'You and I, you and I'}
+{'score': 1, 'review': 'I want you down on your knees'}
+{'score': 1, 'review': 'Never hesitating to become the fated ones'}
+{'score': 1, 'review': "Think I finally understand what you've known clearly from the start"}
+{'score': 1, 'review': "I'll be your Emmylou and I'll be your June"}
+{'score': 1, 'review': 'Your shoulders'}
+{'score': 1, 'review': "(I've got real love maybe, wait until you taste me)"}
+{'score': 1, 'review': 'Cause, baby, I, I wanna make you feel wanted'}
+{'score': 1, 'review': "Movin' like you TLC, seein' that I’m just a scrub"}
+{'score': 1, 'review': 'Is it'}
+{'score': 1, 'review': 'Falling asleep with so much trust'}
+{'score': 1, 'review': "I'm sorry that I couldn't get to you"}
+{'score': 1, 'review': 'Ah yeah, yeah, yeah'}
+{'score': 1, 'review': "Won't stop, won't stop, won't stop, won't stop (won't stop)"}
+{'score': 1, 'review': 'There is nobody, no one to outrun me'}
+{'score': 1, 'review': "So, c'mon ride with me, ride with me"}
+{'score': 1, 'review': 'Oh, to satisfy me'}
+{'score': 1, 'review': 'Yet I know that the goal, is to keep me from falling'}
+{'score': 1, 'review': 'No, you know, you know we must believe'}
+{'score': 1, 'review': "It's so good, good"}
+{'score': 1, 'review': 'Cause I feel like all my better days are gone'}
+{'score': 1, 'review': 'Or the way that she died'}
+{'score': 1, 'review': 'Is it you, the world or myself that’s driving me crazy (crazy, crazy)'}
+{'score': 1, 'review': 'I be waiting in the meantime, oh why?'}
+{'score': 1, 'review': "Yet everyone around me, thinks that I'm going crazy, maybe, maybe"}
+{'score': 1, 'review': 'Feet up on my dash, we would see the sun lapse'}
+{'score': 1, 'review': "Words don't come easy to me"}
+{'score': 1, 'review': 'One of us will die inside these arms'}
+{'score': 1, 'review': "I said somebody's got to take care of him"}
+{'score': 1, 'review': 'Like falling asleep'}
+{'score': 1, 'review': "(I don't"}
+{'score': 1, 'review': "But we run our course, we pretend that we're okay"}
+{'score': 1, 'review': 'And, yes'}
+{'score': 1, 'review': 'Think I need a break from everything'}
+{'score': 1, 'review': 'Silver splits the blue'}
+{'score': 1, 'review': "I don't really like anybody"}
+{'score': 1, 'review': 'Oh, oh, ooh'}
+{'score': 1, 'review': "It's time to turn the streets into a war zone"}
+{'score': 1, 'review': 'Falling through a simple world'}
+{'score': 1, 'review': "You know I'm doing"}
+{'score': 1, 'review': "Skippin' through some years but it feel right, oh yeah"}
+{'score': 1, 'review': "I'm so high I don't know what else to do"}
+{'score': 1, 'review': "Yeah, now I'm feeling you breathing slow"}
+{'score': 1, 'review': "Is it chill that you're in my head?"}
+{'score': 1, 'review': 'And get chills with every accidental touch'}
+{'score': 1, 'review': "Is you're the only reason I'm trying"}
+{'score': 1, 'review': 'We can make the race go faster'}
+{'score': 1, 'review': 'And you are the reason'}
+{'score': 1, 'review': 'In you my friend'}
+{'score': 1, 'review': "We gon' need all of your lovin', whatever you got to give"}
+{'score': 1, 'review': 'Oh, my love, my darling'}
+{'score': 1, 'review': "Oh no, I've never seen anything quite like you tonight"}
+{'score': 1, 'review': 'Lay your head on me'}
+{'score': 1, 'review': "I don't mind spendin' everyday "}
+{'score': 1, 'review': 'You make me feel like I am free again'}
+{'score': 1, 'review': 'And did you fall from a shooting star?'}
+{'score': 1, 'review': "I'll always remember us this way, oh, yeah"}
+{'score': 1, 'review': "(Love ain't) Love ain't"}
+{'score': 1, 'review': "Wouldn't it be nice if we were older"}
+{'score': 1, 'review': 'Shake shake, shake shake'}
+{'score': 1, 'review': 'The meaning of her name'}
+{'score': 1, 'review': "You'll never know"}
+{'score': 1, 'review': 'I like to see you'}
+{'score': 1, 'review': 'Stilettos and broken bottles'}
+{'score': 1, 'review': 'Do love me, do love me, do (yeah)'}
+{'score': 1, 'review': "Now that she's back in the atmosphere"}
+{'score': 1, 'review': 'Beat your a*s if you correct my grammar in this bitch'}
+{'score': 1, 'review': 'On us now'}
+{'score': 1, 'review': 'I just want to stay with you in this moment forever'}
+{'score': 1, 'review': 'Is'}
+{'score': 1, 'review': 'My life and love might still go on'}
+{'score': 1, 'review': 'Oh, stand now by me, stand by me, stand by me-e, yeah'}
+{'score': 1, 'review': "You're my sun, my moon, my guiding star"}
+{'score': 1, 'review': 'You’ll be mine and I’ll be yours'}
+{'score': 1, 'review': 'Pull up on his ass with a hundred round stick'}
+{'score': 1, 'review': 'Of a window in the basement of'}
+{'score': 1, 'review': "It's much older than you and me"}
+{'score': 1, 'review': 'There are days when I could walk into the ocean'}
+{'score': 1, 'review': 'And I still need you'}
+{'score': 1, 'review': 'This needs to change'}
+{'score': 1, 'review': 'Yeah, the drinks are on me'}
+{'score': 1, 'review': 'High highs to low lows'}
+{'score': 1, 'review': 'Caught in clouds of silver ropes'}
+{'score': 1, 'review': 'Then He said to me'}
+{'score': 1, 'review': 'She killed it with kisses and from it she fled'}
+{'score': 1, 'review': 'In a way, I felt you were leaving me'}
+{'score': 1, 'review': 'Cause nothing compares'}
+{'score': 1, 'review': 'You know I could girl'}
+{'score': 1, 'review': "I'm coming home, I'm coming home"}
+{'score': 1, 'review': 'So please don’t let go'}
+{'score': 1, 'review': 'Guess I'}
+{'score': 1, 'review': 'And if you really down we can find it'}
+{'score': 1, 'review': 'Bring me a higher love'}
+{'score': 1, 'review': "I'm not looking for somebody"}
+{'score': 1, 'review': 'Bye'}
+{'score': 1, 'review': "Maybe it's all a big mistake"}
+{'score': 1, 'review': 'You see they blow me up, got they minds made up'}
+{'score': 1, 'review': 'I, I miss you, yeah I miss you'}
+{'score': 1, 'review': 'The number of tears'}
+{'score': 1, 'review': "But that's not what I see"}
+{'score': 1, 'review': "It's so good, good lovin' somebody"}
+{'score': 1, 'review': 'That I may see him'}
+{'score': 1, 'review': 'A new song'}
+{'score': 1, 'review': "And i know when I'm up she hold me down"}
+{'score': 1, 'review': "They say I'm loco when me do me thing"}
+{'score': 1, 'review': "We live in cities you'll never see onscreen"}
+{'score': 1, 'review': "And I swear that everyday'll get better"}
+{'score': 1, 'review': 'Let your heart beat here'}
+{'score': 1, 'review': 'I’m a lonely sailor, drinking the night away'}
+{'score': 1, 'review': 'Oh my God, oh my God, my bitch get me right'}
+{'score': 1, 'review': "A million dreams for the world we're gonna make"}
+{'score': 1, 'review': "Tell me what it's like in the night when I ain’t by your side"}
+{'score': 1, 'review': 'I can see they mysteries behind your beautiful brown eyes.'}
+{'score': 1, 'review': 'You always'}
+{'score': 1, 'review': 'Cause we can make the weekend last'}
+{'score': 1, 'review': "Now I'm breaking at the britches"}
+{'score': 1, 'review': 'Blackened days with their bigger gales'}
+{'score': 1, 'review': 'We were on the way so was the day'}
+{'score': 1, 'review': 'Know I love you more'}
+{'score': 1, 'review': "But I'll be there to take care of you if ever you should decide"}
+{'score': 1, 'review': 'Got me looking so crazy right now'}
+{'score': 1, 'review': 'but the moon in the blade'}
+{'score': 1, 'review': 'And if you ever got a sign from my eyes, girl just know I meant it'}
+{'score': 1, 'review': "Don't give up on me baby"}
+{'score': 1, 'review': 'Pick up her life she threw on the floor'}
+{'score': 1, 'review': 'There inside'}
+{'score': 1, 'review': 'Lucky to have been where I have been'}
+{'score': 1, 'review': 'You said, What I look like?, like my bitch, yeah'}
+{'score': 1, 'review': "I'm just tryna make a move girl"}
+{'score': 1, 'review': 'Your bubblegum tongue'}
+{'score': 1, 'review': 'To myself'}
+{'score': 1, 'review': "I'm the light of the world"}
+{'score': 1, 'review': "How'd I get so faded?"}
+{'score': 1, 'review': 'All the ways'}
+{'score': 1, 'review': 'This is bound to be a while'}
+{'score': 1, 'review': "But I'm taking every shot"}
+{'score': 1, 'review': 'Shimmering love '}
+{'score': 1, 'review': "And made me believe you've got more thrills to spare, oh"}
+{'score': 1, 'review': "But all I've ever learned from love"}
+{'score': 1, 'review': 'Mais sans les bas, les hauts ne veulent rien dire'}
+{'score': 1, 'review': 'It takes one hot second to turn it around'}
+{'score': 1, 'review': "I don't know what's real"}
+{'score': 1, 'review': 'Ooh baby, ooh baby'}
+{'score': 1, 'review': "I'll sing a song"}
+{'score': 1, 'review': "Won't be a day too late"}
+{'score': 1, 'review': "She don't want love, she just want her share"}
+{'score': 1, 'review': 'I wanna stay the whole night'}
+{'score': 1, 'review': 'I just wanna, offer it now'}
+{'score': 1, 'review': "Comin' through -"}
+{'score': 1, 'review': "And you tell me I'm a child"}
+{'score': 1, 'review': 'Talked you into taking up my time, making up your mind'}
+{'score': 1, 'review': 'You know, I used to live alone before I knew ya'}
+{'score': 1, 'review': 'Baby I can hear the wind whip past my face'}
+{'score': 1, 'review': "It's late September and I really should be back at school"}
+{'score': 1, 'review': 'Never let me go'}
+{'score': 1, 'review': 'Say it, say it again'}
+{'score': 1, 'review': 'Oh, turn the lights, turn the lights down low, oh'}
+{'score': 1, 'review': 'You ban me from sleeping pills and codeine'}
+{'score': 1, 'review': "And we don't know how we got into this mess it's a gods test"}
+{'score': 1, 'review': "I'm tripping on words"}
+{'score': 1, 'review': 'Ah, can you feel it baby?'}
+{'score': 1, 'review': "When I'm with someone else, it's feeling like I'm cheating"}
+{'score': 1, 'review': 'What’s going on in that beautiful mind'}
+{'score': 1, 'review': 'And all come true'}
+{'score': 1, 'review': "I'm on the way, I know connection is vague"}
+{'score': 1, 'review': "Ain't no W's and dubbing me when I call you"}
+{'score': 1, 'review': 'So complete in our love'}
+{'score': 1, 'review': 'I love to watch the castles burn'}
+{'score': 1, 'review': "You send me money and nude pictures, beggin' for some sex"}
+{'score': 1, 'review': 'Cause we got a life of love'}
+{'score': 1, 'review': "Oh, it's a beautiful thing"}
+{'score': 1, 'review': 'I get stuck inside these walls that you build (Ohh, yeah)'}
+{'score': 1, 'review': "You've been going round, going round, going round every party in L.A."}
+{'score': 1, 'review': "I'm reaching for you, are you feeling it too"}
+{'score': 1, 'review': "Couldn't believe that you were gone"}
+{'score': 1, 'review': "When your legs don't work like they used to before"}
+{'score': 1, 'review': "And I'm in the corner, watching you kiss her, oh"}
+{'score': 1, 'review': "When the lights come on and I'm on my own"}
+{'score': 1, 'review': "But I hope you can't get it up"}
+{'score': 1, 'review': 'Do you have to let it linger?'}
+{'score': 1, 'review': 'Waste the day and spend the night'}
+{'score': 1, 'review': "I said I'm ready (oh yeah, I'm ready)"}
+{'score': 1, 'review': 'And I wanna cry, I wanna fall in love'}
+{'score': 1, 'review': "For a minute I was gon' wife it up, but I'm trippin' (Mm)"}
+{'score': 1, 'review': "And it's easy to see"}
+{'score': 1, 'review': 'And I know that you have got addicted with you eyes'}
+{'score': 1, 'review': 'You gonna see me in a new light'}
+{'score': 1, 'review': "But I can't let go of what's in front of me here"}
+{'score': 1, 'review': "they'll be by them, you"}
+{'score': 1, 'review': 'Sugar fly with me'}
+{'score': 1, 'review': "I'll wait (I'll wait), I'll wait (I'll wait)"}
+{'score': 1, 'review': 'Showered by the empty hopes'}
+{'score': 1, 'review': "And it's alright 'cause you're all mine, baby, ooh, hoo"}
+{'score': 1, 'review': 'Getting drunk with these bitches and when they leave, they get followed'}
+{'score': 1, 'review': "Don't matter where we've been"}
+{'score': 1, 'review': 'I might like the way your face turns brown in summer'}
+{'score': 1, 'review': 'alone in my head, the world nobody knows'}
+{'score': 1, 'review': 'So I kiss farewell to drama'}
+{'score': 1, 'review': "Although we've come"}
+{'score': 1, 'review': "I can't forget the day you left"}
+{'score': 1, 'review': "If you love me won't you say something"}
+{'score': 1, 'review': 'So then I took my turn'}
+{'score': 1, 'review': 'Please give me one more night, give me just one more night'}
+{'score': 1, 'review': 'Daybreak open your eyes'}
+{'score': 1, 'review': 'So I call up my preacher'}
+{'score': 1, 'review': 'So give me strength, '}
+{'score': 1, 'review': "But let's talk about it"}
+{'score': 1, 'review': "Whenever I'm wrong"}
+{'score': 1, 'review': 'And his wife, she stayed for a couple of days, and passed away'}
+{'score': 1, 'review': "I'll break through it, but"}
+{'score': 1, 'review': "I might smack a bitch 'cause I felt like it"}
+{'score': 1, 'review': 'Always in time, but never in line for dreams'}
+{'score': 1, 'review': 'Fuck up my nights, yeah, all of my nights, yeah'}
+{'score': 1, 'review': 'Gal mi nah go tell you no lie,'}
+{'score': 1, 'review': "I don't wanna fool around no more"}
+{'score': 1, 'review': 'Calling me'}
+{'score': 1, 'review': "And that's why I might never see you again"}
+{'score': 1, 'review': 'I fuck you when I need to, I just need you for a bit'}
+{'score': 1, 'review': 'Just a simple faithful friend'}
+{'score': 1, 'review': 'Even though you cannot speak'}
+{'score': 1, 'review': "Pour out some liquor, play ball and we keep ballin'"}
+{'score': 1, 'review': "Buy anything, I don't care what it cost"}
+{'score': 1, 'review': 'Makes me lose control'}
+{'score': 1, 'review': 'And I know you noticed it'}
+{'score': 1, 'review': 'Oh stand by me, stand by me'}
+{'score': 1, 'review': 'Forgive me'}
+{'score': 1, 'review': "If there's something wrong, I got you, baby"}
+{'score': 1, 'review': 'We danced the night away, we drank too much'}
+{'score': 1, 'review': 'I think I might go all in, no exceptions, girl, I need ya'}
+{'score': 1, 'review': 'My lover, my lover, my lover (oh) '}
+{'score': 1, 'review': 'Do I make you wanna'}
+{'score': 1, 'review': "But we're gonna start by drinking old cheap bottles of wine"}
+{'score': 1, 'review': 'You know that I see it'}
+{'score': 1, 'review': 'Listen when we talk, ooh yeah'}
+{'score': 1, 'review': "When I say you're not the best I've ever had?"}
+{'score': 1, 'review': 'Is only'}
+{'score': 1, 'review': 'I swear, I swear, oh, I, swear'}
+{'score': 1, 'review': "One day they'll be no remnants"}
+{'score': 1, 'review': 'The topdown'}
+{'score': 1, 'review': "Flyin' high "}
+{'score': 1, 'review': "The Blower's daughter"}
+{'score': 1, 'review': "Won't take a call, won't even write a song"}
+{'score': 1, 'review': 'Wish that I could let you love me'}
+{'score': 1, 'review': "Yeah, I'm saving all my lovin'"}
+{'score': 1, 'review': "I can't switch off"}
+{'score': 1, 'review': 'I remember all my life  Raining down as cold as ice  A shadow of a man  A face through a window  Crying in the night  The night goes into    Morning, just another day  Happy people pass my way  Looking in their eyes  I see a memory  I never realized  '}
+{'score': 1, 'review': "Filled with regret I come back beggin' you,"}
+{'score': 1, 'review': "You're the cure, you're the pain"}
+{'score': 1, 'review': '(Sierra)'}
+{'score': 1, 'review': 'Know that she deserves it'}
+{'score': 1, 'review': 'You took a drunk girl home'}
+{'score': 1, 'review': 'Not very pretty, but we sure know how to run things'}
+{'score': 1, 'review': 'Long night, with your hands up in my hair'}
+{'score': 1, 'review': "But I've"}
+{'score': 1, 'review': 'Say this universe is mine'}
+{'score': 1, 'review': 'Oh oh, oh oh'}
+{'score': 1, 'review': 'I could drink a case of you darling and I would'}
+{'score': 1, 'review': 'Thinking about leaving this'}
+{'score': 1, 'review': "Girl I'll still be there"}
+{'score': 1, 'review': "Said don't let me down"}
+{'score': 1, 'review': 'That Arizona sky burning in your eyes'}
+{'score': 1, 'review': 'And your eyes look like coming home'}
+{'score': 1, 'review': "I tried to see you but your daddy wouldn't let me"}
+{'score': 1, 'review': "Baby believe me; I'm sorry I told you lies"}
+{'score': 1, 'review': "Baby, won't you come on by?"}
+{'score': 1, 'review': 'I feel the chemicals'}
+{'score': 1, 'review': '(Why you make it so complicated?)'}
+{'score': 1, 'review': 'My body turns and yearns for a sleep'}
+{'score': 1, 'review': 'My sweet refuge'}
+{'score': 1, 'review': "And that ain't no promise, cracking over time"}
+{'score': 1, 'review': 'You, you, you, you (let me freak you)'}
+{'score': 1, 'review': "Miss when I wasn't famous, that's when we could be us"}
+{'score': 1, 'review': 'Sister, shoulder'}
+{'score': 1, 'review': "And you'll hang me up"}
+{'score': 1, 'review': "Way up high or down low, I'll go wherever you will go"}
+{'score': 1, 'review': 'Baby, just stay comfortable, I want you as you are'}
+{'score': 1, 'review': "Well, there's broken silence"}
+{'score': 1, 'review': "Every little thing's gonna be alright"}
+{'score': 1, 'review': 'Rich or poor, rain or shine'}
+{'score': 1, 'review': 'Oh, no, no, please do not fuck up my (high)'}
+{'score': 1, 'review': "Cause I've been waiting on her since the second grade yeah"}
+{'score': 1, 'review': 'I almost started to believe her'}
+{'score': 1, 'review': 'Just about anything but losing you'}
+{'score': 1, 'review': 'Ooooh ooh ooh ooh'}
+{'score': 1, 'review': 'Well if all I got is your hand in my hand'}
+{'score': 1, 'review': 'Round in circle '}
+{'score': 1, 'review': 'My heart’s speeding up so I think that we should take it slow'}
+{'score': 1, 'review': "I said, Hey baby, why don't you come"}
+{'score': 1, 'review': "She give me toothaches just from kissin' me"}
+{'score': 1, 'review': 'Cause watching you is all that I can do'}
+{'score': 1, 'review': "There's not a thing that I would change"}
+{'score': 1, 'review': 'Let me touch you with my love'}
+{'score': 1, 'review': 'Oh, your secret garden (hooo)'}
+{'score': 1, 'review': "She said, I'm not tryna be difficult"}
+{'score': 1, 'review': 'Take this'}
+{'score': 1, 'review': 'Confusion is nothing new'}
+{'score': 1, 'review': "Pretty woman say you'll stay with me"}
+{'score': 1, 'review': 'This one will bring it back whole'}
+{'score': 1, 'review': 'Take this all away'}
+{'score': 1, 'review': 'That maybe we found love right where we are'}
+{'score': 1, 'review': 'A little bit of that love, oh'}
+{'score': 1, 'review': "Oh, it's so bad that you come in waves"}
+{'score': 1, 'review': 'Stick the promise man you made me'}
+{'score': 1, 'review': 'This night is cold in the kingdom'}
+{'score': 1, 'review': 'You and me can make it anywhere'}
+{'score': 1, 'review': 'This body is yours,'}
+{'score': 1, 'review': "I've come"}
+{'score': 1, 'review': 'And catch a cold heart staring at the water, babe, remember you flew'}
+{'score': 1, 'review': 'Just let me rock and let me love you, baby, '}
+{'score': 1, 'review': 'I heard the rain, it never came'}
+{'score': 1, 'review': "Now we're higher than the eastern skies"}
+{'score': 1, 'review': 'You say I am loved when I can’t feel a thing'}
+{'score': 1, 'review': '(We never will part, oh, how I love you)'}
+{'score': 1, 'review': 'Oh eh, oh eh, oh eh oh, oh eh oh eh, oh ah'}
+{'score': 1, 'review': "In your eyes, I can see my dream's reflections"}
+{'score': 1, 'review': "Cause you see that I'm naked (naked, naked)"}
+{'score': 1, 'review': 'I said where you been?'}
+{'score': 1, 'review': 'Soft skin like moonstones, whoa, whoa'}
+{'score': 1, 'review': "I'll stand by you"}
+{'score': 1, 'review': 'Do you hear me,'}
+{'score': 1, 'review': "Thinking 'bout what I'm gon' do"}
+{'score': 1, 'review': 'I kinda like it in my brand new place'}
+{'score': 1, 'review': 'I hope you alone like bankruptcy, nigga'}
+{'score': 1, 'review': 'Wish your hands in my hair'}
+{'score': 1, 'review': 'Lemme,'}
+{'score': 1, 'review': 'And she falls asleep'}
+{'score': 1, 'review': "Whenever I'm wrong (whenever I'm wrong)"}
+{'score': 1, 'review': 'Incite me to chorus'}
+{'score': 1, 'review': "Curves and your hips from yo' mammy"}
+{'score': 1, 'review': 'All died when you went away'}
+{'score': 1, 'review': "In my life we'll always go on"}
+{'score': 1, 'review': "And I don't know what to do"}
+{'score': 1, 'review': 'What good it would do, if I decide to face the truth'}
+{'score': 1, 'review': 'Always listen, but I never learn'}
+{'score': 1, 'review': 'And then you say to me you made a dumb mistake'}
+{'score': 1, 'review': 'I went away just when you needed me so.'}
+{'score': 1, 'review': "I don't know I don't know"}
+{'score': 1, 'review': "All the family gathered 'round knew the time was coming soon"}
+{'score': 1, 'review': "Promise me you'll never leave my side"}
+{'score': 1, 'review': 'Then darling you would be love of my life'}
+{'score': 1, 'review': 'I guess I still care'}
+{'score': 1, 'review': "Uh, and this isn't no favor"}
+{'score': 1, 'review': "Yeah, we'll rebel"}
+{'score': 1, 'review': "When it's time to walk a line I'll find a destiny"}
+{'score': 1, 'review': 'Please'}
+{'score': 1, 'review': 'To when I feel your hands on me'}
+{'score': 1, 'review': "Now I'm seeing in diamonds, hearing in silence"}
+{'score': 1, 'review': "I thought it'd be hard to find"}
+{'score': 1, 'review': 'I cannot cry'}
+{'score': 1, 'review': 'That sexual vibe'}
+{'score': 1, 'review': 'Empty my bank account (ooh, slide)'}
+{'score': 1, 'review': 'Baby you know what it is'}
