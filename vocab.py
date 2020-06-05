@@ -1,4 +1,5 @@
 import os
+import ast
 
 import random
 import logging
@@ -43,9 +44,13 @@ def build_vocab(data_path, save_path, min_occur=1):
             while True:
                 string_ = f.readline()
                 if not string_: break
-                dict_example = json.loads(string_)
+                if file[5:11]=="lyrics":
+                    dict_example = json.dumps(ast.literal_eval(string_))
+                else:
+                    dict_example = json.loads(string_)
                 sent = dict_example["review"]
-                # ipdb.set_trace()
+                import pdb; pdb.set_trace()
+				# ipdb.set_trace()
                 words += sent.split()
 
     cnt = Counter(words)
@@ -99,7 +104,10 @@ def build_unify_vocab(datapaths, save_path, min_occur=2):
                 while True:
                     string_ = f.readline()
                     if not string_: break
-                    dict_example = json.loads(string_)
+                    if file[5:11]=="lyrics":
+    	                dict_example = ast.literal_eval(string_)
+                    else:
+                        dict_example = json.loads(string_)
                     sent = dict_example["review"]
                     # ipdb.set_trace()
                     words += sent.split()

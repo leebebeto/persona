@@ -178,6 +178,6 @@ if __name__ == '__main__':
                         model.saver.save(sess, os.path.join(args.styler_path, 'model'))
 
         # testing
-		test_batches = loader.get_batches(mode='test')
-		evaluation(sess, args, vocab, test_batches, model, classifier,
-		    os.path.join(output_path, 'test'), write_dict, mode='test')
+		#test_batches = loader.get_batches(mode='test')
+		#evaluation(sess, args, vocab, test_batches, model, classifier,
+		#    os.path.join(output_path, 'test'), write_dict, mode='test')

@@ -6,7 +6,7 @@ import json
 import numpy as np
 import tensorflow as tf
 import os
-
+import ast
 
 class Example(object):
     """Class representing a train/val/test example for text style transfer."""
@@ -194,7 +194,10 @@ class StyleDataloader(object):
             while True:
                 string_ = reader.readline()
                 if not string_: break
-                dict_example = json.loads(string_)
+                if f[5:11] == "lyrics":
+                    dict_example = ast.literal_eval(string_)
+                else:
+                    dict_example = json.loads(string_)
                 review = dict_example["review"]
                 score = 1 if dict_example["score"] > 0 else 0
                 # reward = dict_example["reward"]
