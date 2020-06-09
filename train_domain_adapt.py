@@ -9,6 +9,8 @@ import tensorflow as tf
 from nltk.translate.bleu_score import corpus_bleu
 from nltk.translate.bleu_score import SmoothingFunction
 
+from tensorflow.python.client import device_lib
+
 import network
 from utils import *
 from vocab import Vocabulary, build_unify_vocab
@@ -20,6 +22,7 @@ smoothie = SmoothingFunction().method4
 
 logger = logging.getLogger(__name__)
 
+#print(device_lib.list_local_devices())
 def evaluation(sess, args, batches, model, 
     classifier, classifier_vocab, domain_classifer, domain_vocab,
     output_path, write_dict, save_samples=False, mode='valid', domain=''):

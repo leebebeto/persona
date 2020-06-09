@@ -11,8 +11,6 @@ from config import load_arguments
 from vocab import *
 from dataloader.multi_style_dataloader import MultiStyleDataloader
 
-import ipdb
-
 def create_model(sess, args, vocab):
     model = eval('network.classifier.CNN_Model')(args, vocab)
     if args.load_model:

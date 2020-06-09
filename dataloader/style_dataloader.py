@@ -231,5 +231,4 @@ class StyleDataloader(object):
         if mode != 'train' or self._hps.order_data:
             positive_queue = sorted(positive_queue, key=lambda x: x.original_len)
             negative_queue = sorted(negative_queue, key=lambda x: x.original_len)
-
         return positive_queue, negative_queue

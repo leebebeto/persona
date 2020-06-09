@@ -49,7 +49,6 @@ def build_vocab(data_path, save_path, min_occur=1):
                 else:
                     dict_example = json.loads(string_)
                 sent = dict_example["review"]
-                import pdb; pdb.set_trace()
 				# ipdb.set_trace()
                 words += sent.split()
 
