@@ -111,7 +111,7 @@ def load_arguments():
             help='whether save the model for test')
     argparser.add_argument('--train_checkpoint_frequency',
             type=int,
-            default=4,
+            default=1,
             help='how many checkpoints in one training epoch')
     argparser.add_argument('--training_portion',
             type=float,

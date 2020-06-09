@@ -192,7 +192,6 @@ class Model(BaseModel):
            summaries, loss, global_step and (optionally) coverage loss.
         """
         feed_dict = self._make_feed_dict(td_batch, sd_batch)
-
         if epoch > self.pretrain_epochs:
             results1 = {'td_loss_d': 0.0, 'sd_loss_d': 0.0}
         else:
@@ -202,7 +201,6 @@ class Model(BaseModel):
                 'optimize_d': self.optimize_d,
             }
             results1 = sess.run(to_return, feed_dict)
-
         if epoch > self.pretrain_epochs:
             optimize = self.optimize_tot
         else:

@@ -195,18 +195,19 @@ if __name__ == '__main__':
         for epoch in range(1, 1+args.max_epochs):
             logger.info('--------------------epoch %d--------------------' % epoch)
             logger.info('learning_rate: %.4f  gamma: %.4f' % (learning_rate, gamma))
-
+            print("epoch: ", epoch)
             # multi dataset training
             source_len = len(source_batches)
             target_len = len(target_batches)
             iter_len = max(source_len, target_len)
+
             for i in range(iter_len):
                 model.run_train_step(sess, 
                     target_batches[i % target_len], source_batches[i % source_len], accumulator, epoch)
-
                 step += 1
                 write_dict['step'] = step
-                if step % args.train_checkpoint_step == 0:
+                print('step added', step)
+                if step % 5 == 0:
                     accumulator.output('step %d, time %.0fs,'
                         % (step, time.time() - start_time), write_dict, 'train')
                     accumulator.clear()
@@ -220,17 +221,17 @@ if __name__ == '__main__':
                         mode='valid', domain='target')
 
                     # evaluate online test dataset
-                    if args.online_test and acc > acc_cut and bleu > best_bleu:
-                        best_bleu = bleu
-                        save_samples = epoch > args.pretrain_epochs
-                        online_acc, online_bleu = evaluation(sess, args, online_data, model,
-                            target_classifier, target_vocab, domain_classifier, multi_vocab,
-                            os.path.join(output_online_path, 'step%d' % step), write_dict,
-                            mode='online-test', domain='target', save_samples=save_samples)
-
-                    if args.save_model:
-                        logger.info('Saving style transfer model...')
-                        model.saver.save(sess, os.path.join(args.styler_path, 'model'))
+#                    if args.online_test and acc > acc_cut and bleu > best_bleu:
+#                        best_bleu = bleu
+#                        save_samples = epoch > args.pretrain_epochs
+#                        online_acc, online_bleu = evaluation(sess, args, online_data, model,
+#                            target_classifier, target_vocab, domain_classifier, multi_vocab,
+#                            os.path.join(output_online_path, 'step%d' % step), write_dict,
+#                            mode='online-test', domain='target', save_samples=save_samples)
+#
+                if step % 5 == 0:
+                    logger.info('Saving style transfer model...')
+                    model.saver.save(sess, os.path.join(args.styler_path, 'model'))
 
         # testing
         test_batches = loader.get_batches(domain='target', mode='test')
