@@ -210,7 +210,7 @@ if __name__ == '__main__':
         accumulator = Accumulator(args.train_checkpoint_step, model.get_output_names('all'))
         learning_rate = args.learning_rate
         
-        early_stopping = EarlyStopping(patience=30, verbose=1)
+        early_stopping = EarlyStopping(patience=6, verbose=1)
 
         best_bleu = 0.0
         acc_cut = 0.90
@@ -247,7 +247,7 @@ if __name__ == '__main__':
                         mode='valid', domain='target')
                     
                     # early Stopping
-                    if early_stopping.validate(acc + bleu):
+                    if early_stopping.validate(bleu):
                         early_stopped = True
 
                     # evaluate online test dataset
