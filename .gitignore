@@ -5,3 +5,6 @@ network/__pycache__/
 
 # Logs
 logs/
+
+# Exceeded Files
+save_model/domain_adapt_styler/
