@@ -210,7 +210,7 @@ if __name__ == '__main__':
         accumulator = Accumulator(args.train_checkpoint_step, model.get_output_names('all'))
         learning_rate = args.learning_rate
         
-        early_stopping = EarlyStopping(patience=6, verbose=1)
+        early_stopping = EarlyStopping(patience=30, verbose=1)
 
         best_bleu = 0.0
         acc_cut = 0.90
@@ -240,14 +240,14 @@ if __name__ == '__main__':
                     # validation
                     val_batches = loader.get_batches(domain='target', mode='valid')
                     logger.info('---evaluating target domain:')
-                    logger.info('------epoch: ', epoch)
+                    print("epoch: ", epoch)
                     acc, bleu = evaluation(sess, args, val_batches, model,
                         target_classifier, target_vocab, domain_classifier, multi_vocab,
                         os.path.join(target_output_path, 'epoch%d' % epoch), write_dict,
                         mode='valid', domain='target')
                     
                     # early Stopping
-                    early_stopping.validate(acc + bleu):
+                    if early_stopping.validate(acc + bleu):
                         early_stopped = True
 
                     # evaluate online test dataset
@@ -265,6 +265,9 @@ if __name__ == '__main__':
                 
                 if early_stopped:
                     break
+            
+            if early_stopped:
+                break
 
         # testing
         test_batches = loader.get_batches(domain='target', mode='test')
@@ -272,6 +275,3 @@ if __name__ == '__main__':
         evaluation(sess, args, test_batches, model, 
             target_classifier, target_vocab, domain_classifier, multi_vocab,
             os.path.join(target_output_path, 'test'), write_dict, mode='test', domain='target')
-        
-        if early_stopped:
-            break
