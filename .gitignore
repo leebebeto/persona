@@ -1,0 +1,7 @@
+# Pycache
+__pycache__/
+dataloader/__pycache__/
+network/__pycache__/
+
+# Logs
+logs/

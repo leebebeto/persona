@@ -6,6 +6,7 @@ from network.ControlGen import Model as BaseModel
 class Model(BaseModel):
     def __init__(self, args, vocab):
         super().__init__(args, vocab)
+        self.saver = tf.train.Saver()
 
     def build_placeholder(self):
         self.dropout = tf.placeholder(tf.float32,

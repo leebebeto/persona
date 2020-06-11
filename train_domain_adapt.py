@@ -22,6 +22,27 @@ smoothie = SmoothingFunction().method4
 
 logger = logging.getLogger(__name__)
 
+# Early Stopping
+class EarlyStopping():
+    def __init__(self, patience=30, verbose=0):
+        self._step = 0
+        self._loss = float('inf')
+        self.patience  = patience
+        self.verbose = verbose
+
+    def validate(self, loss):
+        if self._loss < loss:
+            self._step += 1
+            if self._step > self.patience:
+                if self.verbose:
+                    print(f'Training process is stopped early....')
+                return True
+        else:
+            self._step = 0
+            self._loss = loss
+
+        return False
+
 #print(device_lib.list_local_devices())
 def evaluation(sess, args, batches, model, 
     classifier, classifier_vocab, domain_classifer, domain_vocab,
@@ -188,6 +209,8 @@ if __name__ == '__main__':
         step = 0
         accumulator = Accumulator(args.train_checkpoint_step, model.get_output_names('all'))
         learning_rate = args.learning_rate
+        
+        early_stopping = EarlyStopping(patience=6, verbose=1)
 
         best_bleu = 0.0
         acc_cut = 0.90
@@ -196,10 +219,12 @@ if __name__ == '__main__':
             logger.info('--------------------epoch %d--------------------' % epoch)
             logger.info('learning_rate: %.4f  gamma: %.4f' % (learning_rate, gamma))
             print("epoch: ", epoch)
+            
             # multi dataset training
             source_len = len(source_batches)
             target_len = len(target_batches)
             iter_len = max(source_len, target_len)
+            early_stopped = False
 
             for i in range(iter_len):
                 model.run_train_step(sess, 
@@ -215,10 +240,15 @@ if __name__ == '__main__':
                     # validation
                     val_batches = loader.get_batches(domain='target', mode='valid')
                     logger.info('---evaluating target domain:')
+                    logger.info('------epoch: ', epoch)
                     acc, bleu = evaluation(sess, args, val_batches, model,
                         target_classifier, target_vocab, domain_classifier, multi_vocab,
                         os.path.join(target_output_path, 'epoch%d' % epoch), write_dict,
                         mode='valid', domain='target')
+                    
+                    # early Stopping
+                    early_stopping.validate(acc + bleu):
+                        early_stopped = True
 
                     # evaluate online test dataset
 #                    if args.online_test and acc > acc_cut and bleu > best_bleu:
@@ -232,6 +262,9 @@ if __name__ == '__main__':
                 if step % 5 == 0:
                     logger.info('Saving style transfer model...')
                     model.saver.save(sess, os.path.join(args.styler_path, 'model'))
+                
+                if early_stopped:
+                    break
 
         # testing
         test_batches = loader.get_batches(domain='target', mode='test')
@@ -239,3 +272,6 @@ if __name__ == '__main__':
         evaluation(sess, args, test_batches, model, 
             target_classifier, target_vocab, domain_classifier, multi_vocab,
             os.path.join(target_output_path, 'test'), write_dict, mode='test', domain='target')
+        
+        if early_stopped:
+            break

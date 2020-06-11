@@ -46,6 +46,7 @@ def build_vocab(data_path, save_path, min_occur=1):
                 if not string_: break
                 if file[5:11]=="lyrics":
                     dict_example = json.dumps(ast.literal_eval(string_))
+                    dict_example = json.loads(dict_example)
                 else:
                     dict_example = json.loads(string_)
                 sent = dict_example["review"]

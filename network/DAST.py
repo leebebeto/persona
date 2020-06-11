@@ -7,6 +7,7 @@ class Model(BaseModel):
     def __init__(self, args, vocab):
         self.dim_d = args.dim_d
         self.alpha = args.alpha
+        self.saver = tf.train.Saver()
         super().__init__(args, vocab)
 
     def build_placeholder(self):
