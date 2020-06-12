@@ -5,7 +5,8 @@ import random
 import logging
 
 import numpy as np
-import tensorflow as tf
+# import tensorflow as tf
+import tensorflow.compat.v1 as tf
 from nltk.translate.bleu_score import corpus_bleu
 from nltk.translate.bleu_score import SmoothingFunction
 
@@ -210,7 +211,7 @@ if __name__ == '__main__':
         accumulator = Accumulator(args.train_checkpoint_step, model.get_output_names('all'))
         learning_rate = args.learning_rate
         
-        early_stopping = EarlyStopping(patience=6, verbose=1)
+        early_stopping = EarlyStopping(patience=30, verbose=1)
 
         best_bleu = 0.0
         acc_cut = 0.90
@@ -232,7 +233,7 @@ if __name__ == '__main__':
                 step += 1
                 write_dict['step'] = step
                 print('step added', step)
-                if step % 5 == 0:
+                if step % 10 == 0:
                     accumulator.output('step %d, time %.0fs,'
                         % (step, time.time() - start_time), write_dict, 'train')
                     accumulator.clear()
@@ -245,9 +246,8 @@ if __name__ == '__main__':
                         target_classifier, target_vocab, domain_classifier, multi_vocab,
                         os.path.join(target_output_path, 'epoch%d' % epoch), write_dict,
                         mode='valid', domain='target')
-                    
                     # early Stopping
-                    if early_stopping.validate(bleu):
+                    if early_stopping.validate(acc):
                         early_stopped = True
 
                     # evaluate online test dataset
@@ -259,7 +259,7 @@ if __name__ == '__main__':
 #                            os.path.join(output_online_path, 'step%d' % step), write_dict,
 #                            mode='online-test', domain='target', save_samples=save_samples)
 #
-                if step % 5 == 0:
+                if step % 10 == 0:
                     logger.info('Saving style transfer model...')
                     model.saver.save(sess, os.path.join(args.styler_path, 'model'))
                 

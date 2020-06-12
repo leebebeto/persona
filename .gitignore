@@ -7,4 +7,5 @@ network/__pycache__/
 logs/
 
 # Exceeded Files
-save_model/domain_adapt_styler/
+save_model/
+
