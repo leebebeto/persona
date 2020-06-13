@@ -27,12 +27,14 @@ logger = logging.getLogger(__name__)
 class EarlyStopping():
     def __init__(self, patience=30, verbose=0):
         self._step = 0
-        self._loss = float('inf')
+        # For BLEU Score (if you use loss or accuracy, then change the sign)
+        self._loss = float('-inf')
         self.patience  = patience
         self.verbose = verbose
 
     def validate(self, loss):
-        if self._loss < loss:
+        # For BLEU Score (if you use loss or accuracy, then change the direction)
+        if self._loss > loss:
             self._step += 1
             if self._step > self.patience:
                 if self.verbose:
@@ -211,12 +213,16 @@ if __name__ == '__main__':
         accumulator = Accumulator(args.train_checkpoint_step, model.get_output_names('all'))
         learning_rate = args.learning_rate
         
-        early_stopping = EarlyStopping(patience=30, verbose=1)
+        early_stopping = EarlyStopping(patience=20, verbose=1)
 
-        best_bleu = 0.0
+        best_bleu = 20
         acc_cut = 0.90
         gamma = args.gamma_init
-        for epoch in range(1, 1+args.max_epochs):
+        epoch = 1
+        early_stopped = False
+        
+#         for epoch in range(1, 1+args.max_epochs):
+        while not early_stopped:
             logger.info('--------------------epoch %d--------------------' % epoch)
             logger.info('learning_rate: %.4f  gamma: %.4f' % (learning_rate, gamma))
             print("epoch: ", epoch)
@@ -225,7 +231,7 @@ if __name__ == '__main__':
             source_len = len(source_batches)
             target_len = len(target_batches)
             iter_len = max(source_len, target_len)
-            early_stopped = False
+#             early_stopped = False
 
             for i in range(iter_len):
                 model.run_train_step(sess, 
@@ -233,7 +239,7 @@ if __name__ == '__main__':
                 step += 1
                 write_dict['step'] = step
                 print('step added', step)
-                if step % 10 == 0:
+                if step % 100 == 0:
                     accumulator.output('step %d, time %.0fs,'
                         % (step, time.time() - start_time), write_dict, 'train')
                     accumulator.clear()
@@ -246,8 +252,9 @@ if __name__ == '__main__':
                         target_classifier, target_vocab, domain_classifier, multi_vocab,
                         os.path.join(target_output_path, 'epoch%d' % epoch), write_dict,
                         mode='valid', domain='target')
+                    
                     # early Stopping
-                    if early_stopping.validate(acc):
+                    if early_stopping.validate(bleu) or bleu > best_bleu:
                         early_stopped = True
 
                     # evaluate online test dataset
@@ -259,7 +266,7 @@ if __name__ == '__main__':
 #                            os.path.join(output_online_path, 'step%d' % step), write_dict,
 #                            mode='online-test', domain='target', save_samples=save_samples)
 #
-                if step % 10 == 0:
+                if step % 100 == 0:
                     logger.info('Saving style transfer model...')
                     model.saver.save(sess, os.path.join(args.styler_path, 'model'))
                 
@@ -268,6 +275,8 @@ if __name__ == '__main__':
             
             if early_stopped:
                 break
+                
+            epoch += 1
 
         # testing
         test_batches = loader.get_batches(domain='target', mode='test')
