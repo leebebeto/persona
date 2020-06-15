@@ -115,6 +115,7 @@ def evaluation(sess, args, batches, model,
     add_summary_value(write_dict['writer'], ['acc', 'bleu'], [output_acc, bleu], write_dict['step'], mode, domain)
 
     if mode == 'online-test':
+        print('on line test')
         bleu = corpus_bleu(ori_ref, hypo, smoothing_function=smoothie)
         logger.info("Bleu score on original sentences: %.4f" % bleu)
         if save_samples:
@@ -164,10 +165,10 @@ if __name__ == '__main__':
         tensorboard_dir = os.path.join(args.logDir, 'tensorboard')
     if not os.path.exists(tensorboard_dir):
         os.makedirs(tensorboard_dir)
-    write_dict = {
-    'writer': tf.summary.FileWriter(logdir=tensorboard_dir, filename_suffix=args.suffix),
-    'step': 0
-    }
+	#write_dict = {
+	#'writer': tf.summary.FileWriter(logdir=tensorboard_dir, filename_suffix=args.suffix),
+	#'step': 0
+	#}
 
     # load data
     loader = MultiStyleDataloader(args, multi_vocab)
