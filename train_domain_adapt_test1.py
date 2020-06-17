@@ -49,7 +49,7 @@ class EarlyStopping():
 #print(device_lib.list_local_devices())
 def evaluation(sess, args, batches, model, 
     classifier, classifier_vocab, domain_classifer, domain_vocab,
-    output_path, write_dict, save_samples=False, mode='valid', domain=''):
+    output_path, save_samples=False, mode='valid', domain=''):
     transfer_acc = 0
     domain_acc = 0
     origin_acc = 0
@@ -63,7 +63,7 @@ def evaluation(sess, args, batches, model,
     reconstruction = []
     accumulator = Accumulator(len(batches), model.get_output_names(domain))
 
-    for batch in batches:
+    for i, batch in enumerate(batches):
         results = model.run_eval_step(sess, batch, domain)
         accumulator.add([results[name] for name in accumulator.names])
 
@@ -102,8 +102,8 @@ def evaluation(sess, args, batches, model,
             preds = sess.run(domain_classifier.preds, feed_dict=feed_dict)
             domain_acc += np.sum(preds == 1)
             domain_total += len(preds)
-
-    accumulator.output(mode, write_dict, mode)
+        if i > 0: break
+	#accumulator.output(mode, write_dict, mode)
     if domain == 'target':
         output_domain_acc = (domain_acc / float(domain_total))
         logger.info("domain acc: %.4f" % output_domain_acc)
@@ -112,7 +112,14 @@ def evaluation(sess, args, batches, model,
     bleu = corpus_bleu(ref, hypo, smoothing_function=smoothie)
     logger.info("Bleu score: %.4f" % bleu)
 
-    add_summary_value(write_dict['writer'], ['acc', 'bleu'], [output_acc, bleu], write_dict['step'], mode, domain)
+    os.makedirs('result_test', exist_ok = True)
+    f = open('result_test/' + str(args.source_dataset) +  '_' + str(args.dataset) + '.txt', 'w')
+    f.write('output_domain_accuracy: %.4f \n' % output_domain_acc)
+    f.write('transfer_accuracy: %.4f \n' % output_acc)
+    f.write('blue score: %.4f \n' % bleu)
+    f.close()
+    import sys; sys.exit(0)   
+	##add_summary_value(write_dict['writer'], ['acc', 'bleu'], [output_acc, bleu], write_dict['step'], mode, domain)
 
     if mode == 'online-test':
         print('on line test')
@@ -223,41 +230,45 @@ if __name__ == '__main__':
         early_stopped = False
         
 #         for epoch in range(1, 1+args.max_epochs):
-        while not early_stopped:
-            logger.info('--------------------epoch %d--------------------' % epoch)
-            logger.info('learning_rate: %.4f  gamma: %.4f' % (learning_rate, gamma))
-            print("epoch: ", epoch)
-            
-            # multi dataset training
-            source_len = len(source_batches)
-            target_len = len(target_batches)
-            iter_len = max(source_len, target_len)
-#             early_stopped = False
-
-            for i in range(iter_len):
-                model.run_train_step(sess, 
-                    target_batches[i % target_len], source_batches[i % source_len], accumulator, epoch)
-                step += 1
-                write_dict['step'] = step
-                print('step added', step)
-                if step % 100 == 0:
-                    accumulator.output('step %d, time %.0fs,'
-                        % (step, time.time() - start_time), write_dict, 'train')
-                    accumulator.clear()
-
-                    # validation
-                    val_batches = loader.get_batches(domain='target', mode='valid')
-                    logger.info('---evaluating target domain:')
-                    print("epoch: ", epoch)
-                    acc, bleu = evaluation(sess, args, val_batches, model,
-                        target_classifier, target_vocab, domain_classifier, multi_vocab,
-                        os.path.join(target_output_path, 'epoch%d' % epoch), write_dict,
-                        mode='valid', domain='target')
-                    
-                    # early Stopping
-                    if early_stopping.validate(bleu) or bleu > best_bleu:
-                        early_stopped = True
-
+#        while not early_stopped:
+#            logger.info('--------------------epoch %d--------------------' % epoch)
+#            logger.info('learning_rate: %.4f  gamma: %.4f' % (learning_rate, gamma))
+#            print("epoch: ", epoch)
+#            
+#            # multi dataset training
+#            source_len = len(source_batches)
+#            target_len = len(target_batches)
+#            iter_len = max(source_len, target_len)
+##             early_stopped = False
+#
+#            for i in range(iter_len):
+#                model.run_train_step(sess, 
+#                    target_batches[i % target_len], source_batches[i % source_len], accumulator, epoch)
+#                step += 1
+#				#write_dict['step'] = step
+#                print('step added', step)
+#                acc, bleu = evaluation(sess, args, val_batches, model,
+#                    target_classifier, target_vocab, domain_classifier, multi_vocab,
+#                    os.path.join(target_output_path, 'epoch%d' % epoch),
+#                    mode='valid', domain='target')
+				#                 if step % 100 == 0:
+#                    accumulator.output('step %d, time %.0fs,'
+#                        % (step, time.time() - start_time), write_dict, 'train')
+#                    accumulator.clear()
+#
+#                    # validation
+#                    val_batches = loader.get_batches(domain='target', mode='valid')
+#                    logger.info('---evaluating target domain:')
+#                    print("epoch: ", epoch)
+#                    acc, bleu = evaluation(sess, args, val_batches, model,
+#                        target_classifier, target_vocab, domain_classifier, multi_vocab,
+#                        os.path.join(target_output_path, 'epoch%d' % epoch),
+#                        mode='valid', domain='target')
+#                    
+#                    # early Stopping
+#                    if early_stopping.validate(bleu) or bleu > best_bleu:
+#                        early_stopped = True
+#
                     # evaluate online test dataset
 #                    if args.online_test and acc > acc_cut and bleu > best_bleu:
 #                        best_bleu = bleu
@@ -267,21 +278,21 @@ if __name__ == '__main__':
 #                            os.path.join(output_online_path, 'step%d' % step), write_dict,
 #                            mode='online-test', domain='target', save_samples=save_samples)
 #
-                if step % 100 == 0:
-                    logger.info('Saving style transfer model...')
-                    model.saver.save(sess, os.path.join(args.styler_path, 'model'))
-                
-                if early_stopped:
-                    break
-            
-            if early_stopped:
-                break
-                
-            epoch += 1
-
+#                if step % 100 == 0:
+#                    logger.info('Saving style transfer model...')
+#                    model.saver.save(sess, os.path.join(args.styler_path, 'model'))
+#                
+#                if early_stopped:
+#                    break
+#            
+#            if early_stopped:
+#                break
+#                
+#            epoch += 1
+#
         # testing
         test_batches = loader.get_batches(domain='target', mode='test')
         logger.info('---testing target domain:')
         evaluation(sess, args, test_batches, model, 
             target_classifier, target_vocab, domain_classifier, multi_vocab,
-            os.path.join(target_output_path, 'test'), write_dict, mode='test', domain='target')
+            os.path.join(target_output_path, 'test'),  mode='test', domain='target')

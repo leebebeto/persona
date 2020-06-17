@@ -5,7 +5,8 @@ import random
 import logging
 
 import numpy as np
-# import tensorflow as tf
+import pandas as pd
+#import tensorflow as tf
 import tensorflow.compat.v1 as tf
 from nltk.translate.bleu_score import corpus_bleu
 from nltk.translate.bleu_score import SmoothingFunction
@@ -23,33 +24,61 @@ smoothie = SmoothingFunction().method4
 
 logger = logging.getLogger(__name__)
 
-# Early Stopping
-class EarlyStopping():
-    def __init__(self, patience=30, verbose=0):
-        self._step = 0
-        # For BLEU Score (if you use loss or accuracy, then change the sign)
-        self._loss = float('-inf')
-        self.patience  = patience
-        self.verbose = verbose
-
-    def validate(self, loss):
-        # For BLEU Score (if you use loss or accuracy, then change the direction)
-        if self._loss > loss:
-            self._step += 1
-            if self._step > self.patience:
-                if self.verbose:
-                    print(f'Training process is stopped early....')
-                return True
-        else:
-            self._step = 0
-            self._loss = loss
-
-        return False
+def write_origin_file(corpus, f_name):
+    file = open(f_name, 'w')
+    vstr = ''
+    
+    for sentence in corpus:
+        vstr = vstr + str(sentence)
+        vstr += '\n'
+        
+    file.writelines(vstr)
+    file.close()
+    print('file save: ', f_name)
+    
+def write_transfer_file(corpus, f_name):
+    file = open(f_name, 'w')
+    vstr = ''
+    
+    for sentence in corpus:
+        for word in sentence :
+            vstr = vstr + str(word) + ' '
+        vstr += '\n'
+        
+    file.writelines(vstr)
+    file.close()
+    print('file save: ', f_name)
+    
+def write_csv_file_with_label(label, pred_label, origin, transfer):
+    process_ref = []
+    origin_sentence = []
+    transfer_sentence = []
+    
+    for sentence in origin:
+        origin_sentence.append(sentence)
+    
+    for sentence in transfer:
+        vstr = ''
+        for word in sentence:
+            vstr = vstr + str(word) + ' '
+        transfer_sentence.append(vstr)
+    
+    df = pd.DataFrame({'label': label, 'pred_label': pred_label, 'origin': origin_sentence, 'transfer': transfer_sentence})
+    df.to_csv('transferred_result.csv', index=False, encoding='UTF8')
+    
 
 #print(device_lib.list_local_devices())
 def evaluation(sess, args, batches, model, 
     classifier, classifier_vocab, domain_classifer, domain_vocab,
     output_path, write_dict, save_samples=False, mode='valid', domain=''):
+    
+#     origin = origin sentence
+#     label = label for transferring
+#     pred_label = predicted label
+#     transfer = transferred sentence
+#     hypo = transferred sentence but using BLEU score (same as transfer)
+    
+    
     transfer_acc = 0
     domain_acc = 0
     origin_acc = 0
@@ -60,6 +89,8 @@ def evaluation(sess, args, batches, model,
     hypo = []
     origin = []
     transfer = []
+    label = []
+    pred_label = []
     reconstruction = []
     accumulator = Accumulator(len(batches), model.get_output_names(domain))
 
@@ -76,6 +107,7 @@ def evaluation(sess, args, batches, model,
         reconstruction.extend(rec)
         transfer.extend(tsf)
         hypo.extend(tsf)
+        label.extend(batch.labels)
         origin.extend(batch.original_reviews)
         for x in batch.original_reviews:
             ori_ref.append([x.split()])
@@ -89,6 +121,7 @@ def evaluation(sess, args, batches, model,
                      classifier.enc_lens: lengths,
                      classifier.dropout: 1.0}
         preds = sess.run(classifier.preds, feed_dict=feed_dict)
+        pred_label.extend(preds)
         trans_label = batch.labels == 0
         transfer_acc += np.sum(trans_label == preds)
         total += len(trans_label)
@@ -102,28 +135,10 @@ def evaluation(sess, args, batches, model,
             preds = sess.run(domain_classifier.preds, feed_dict=feed_dict)
             domain_acc += np.sum(preds == 1)
             domain_total += len(preds)
-
-    accumulator.output(mode, write_dict, mode)
-    if domain == 'target':
-        output_domain_acc = (domain_acc / float(domain_total))
-        logger.info("domain acc: %.4f" % output_domain_acc)
-    output_acc = (transfer_acc / float(total))
-    logger.info("transfer acc: %.4f" % output_acc)
-    bleu = corpus_bleu(ref, hypo, smoothing_function=smoothie)
-    logger.info("Bleu score: %.4f" % bleu)
-
-    add_summary_value(write_dict['writer'], ['acc', 'bleu'], [output_acc, bleu], write_dict['step'], mode, domain)
-
-    if mode == 'online-test':
-        print('on line test')
-        bleu = corpus_bleu(ori_ref, hypo, smoothing_function=smoothie)
-        logger.info("Bleu score on original sentences: %.4f" % bleu)
-        if save_samples:
-            write_output(origin, transfer, reconstruction, output_path, ref)
-    elif args.save_samples:
-        write_output_v0(origin, transfer, reconstruction, output_path)
-
-    return output_acc, bleu
+            
+    write_origin_file(origin, 'yahoo_lyrics_origin.txt')
+    write_transfer_file(transfer, 'yahoo_lyrics_transfer.txt')
+    write_csv_file_with_label(label, pred_label, origin, transfer)
 
 
 def create_model(sess, args, vocab):
@@ -165,10 +180,10 @@ if __name__ == '__main__':
         tensorboard_dir = os.path.join(args.logDir, 'tensorboard')
     if not os.path.exists(tensorboard_dir):
         os.makedirs(tensorboard_dir)
-	#write_dict = {
-	#'writer': tf.summary.FileWriter(logdir=tensorboard_dir, filename_suffix=args.suffix),
-	#'step': 0
-	#}
+    write_dict = {
+    'writer': tf.summary.FileWriter(logdir=tensorboard_dir, filename_suffix=args.suffix),
+    'step': 0
+    }
 
     # load data
     loader = MultiStyleDataloader(args, multi_vocab)
@@ -182,6 +197,7 @@ if __name__ == '__main__':
 
     # whether use online dataset for testing
     if args.online_test:
+        print('print online test')
         online_data = OnlineDataloader(args, multi_vocab)
         online_data = online_data.online_test
         output_online_path = os.path.join(args.logDir, 'domain_adapt', 'online-test')
@@ -208,76 +224,6 @@ if __name__ == '__main__':
         # load training dataset
         source_batches = loader.get_batches(domain='source', mode='train')
         target_batches = loader.get_batches(domain='target', mode='train')
-
-        start_time = time.time()
-        step = 0
-        accumulator = Accumulator(args.train_checkpoint_step, model.get_output_names('all'))
-        learning_rate = args.learning_rate
-        
-        early_stopping = EarlyStopping(patience=20, verbose=1)
-
-        best_bleu = 20
-        acc_cut = 0.90
-        gamma = args.gamma_init
-        epoch = 1
-        early_stopped = False
-        
-#         for epoch in range(1, 1+args.max_epochs):
-        while not early_stopped:
-            logger.info('--------------------epoch %d--------------------' % epoch)
-            logger.info('learning_rate: %.4f  gamma: %.4f' % (learning_rate, gamma))
-            print("epoch: ", epoch)
-            
-            # multi dataset training
-            source_len = len(source_batches)
-            target_len = len(target_batches)
-            iter_len = max(source_len, target_len)
-#             early_stopped = False
-
-            for i in range(iter_len):
-                model.run_train_step(sess, 
-                    target_batches[i % target_len], source_batches[i % source_len], accumulator, epoch)
-                step += 1
-                write_dict['step'] = step
-                print('step added', step)
-                if step % 100 == 0:
-                    accumulator.output('step %d, time %.0fs,'
-                        % (step, time.time() - start_time), write_dict, 'train')
-                    accumulator.clear()
-
-                    # validation
-                    val_batches = loader.get_batches(domain='target', mode='valid')
-                    logger.info('---evaluating target domain:')
-                    print("epoch: ", epoch)
-                    acc, bleu = evaluation(sess, args, val_batches, model,
-                        target_classifier, target_vocab, domain_classifier, multi_vocab,
-                        os.path.join(target_output_path, 'epoch%d' % epoch), write_dict,
-                        mode='valid', domain='target')
-                    
-                    # early Stopping
-                    if early_stopping.validate(bleu) or bleu > best_bleu:
-                        early_stopped = True
-
-                    # evaluate online test dataset
-#                    if args.online_test and acc > acc_cut and bleu > best_bleu:
-#                        best_bleu = bleu
-#                        save_samples = epoch > args.pretrain_epochs
-#                        online_acc, online_bleu = evaluation(sess, args, online_data, model,
-#                            target_classifier, target_vocab, domain_classifier, multi_vocab,
-#                            os.path.join(output_online_path, 'step%d' % step), write_dict,
-#                            mode='online-test', domain='target', save_samples=save_samples)
-#
-                if step % 100 == 0:
-                    logger.info('Saving style transfer model...')
-                    model.saver.save(sess, os.path.join(args.styler_path, 'model'))
-                
-                if early_stopped:
-                    break
-            
-            if early_stopped:
-                break
-                
-            epoch += 1
 
         # testing
         test_batches = loader.get_batches(domain='target', mode='test')
