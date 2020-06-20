@@ -4,8 +4,8 @@ import time
 import random
 
 import numpy as np
-import tensorflow as tf
-
+#import tensorflow as tf
+import tensorflow.compat.v1 as tf
 import network
 from config import load_arguments
 from vocab import Vocabulary, build_vocab
@@ -13,6 +13,7 @@ from dataloader.cnn_dataloader import ClassificationBatcher
 
 def create_model(sess, args, vocab):
     model = eval('network.classifier.CNN_Model')(args, vocab)
+    import pdb; pdb.set_trace()
     if args.load_model:
         print('Loading model from', os.path.join(args.classifier_path, 'model'))
         model.saver.restore(sess, os.path.join(args.classifier_path, 'model'))
