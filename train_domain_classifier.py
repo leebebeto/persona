@@ -50,6 +50,7 @@ def create_domain_classifier_batches(loader):
     return new_loader
 
 if __name__ == '__main__':
+    # os.environ["CUDA_VISIBLE_DEVICES"]="1"
     args = load_arguments()
     assert args.domain_adapt, "domain_adapt arg should be True."
 

@@ -3,6 +3,7 @@ import sys
 import time
 import random
 import logging
+import math
 
 import numpy as np
 # import tensorflow as tf
@@ -25,16 +26,16 @@ logger = logging.getLogger(__name__)
 
 # Early Stopping
 class EarlyStopping():
-    def __init__(self, patience=30, verbose=0):
+    def __init__(self, patience=5, verbose=0):
         self._step = 0
         # For BLEU Score (if you use loss or accuracy, then change the sign)
-        self._loss = float('-inf')
+        self._score = float('-inf')
         self.patience  = patience
         self.verbose = verbose
 
-    def validate(self, loss):
+    def validate(self, score):
         # For BLEU Score (if you use loss or accuracy, then change the direction)
-        if self._loss > loss:
+        if self._score > score:
             self._step += 1
             if self._step > self.patience:
                 if self.verbose:
@@ -42,9 +43,18 @@ class EarlyStopping():
                 return True
         else:
             self._step = 0
-            self._loss = loss
+            self._score = score
 
         return False
+    
+# Geometric Mean
+def geomean(scores):
+    return reduce(lambda x, y: x*y, scores)**(1.0/len(scores))
+
+# Save csv file
+def write_csv_file(bleu_list, acc_list):
+    df = pd.DataFrame({'blue': score_list, 'transfer_acc': acc_list})
+    df.to_csv('score_result.csv', index=False, encoding='UTF8')
 
 #print(device_lib.list_local_devices())
 def evaluation(sess, args, batches, model, 
@@ -150,6 +160,7 @@ def restore_classifier_by_path(classifier, classifier_path, scope):
     logger.info("-----%s classifier model loading from %s successfully!-----" % (scope, classifier_path))
 
 if __name__ == '__main__':
+    os.environ["CUDA_VISIBLE_DEVICES"]="1"
     args = load_arguments()
     assert args.domain_adapt, "domain_adapt arg should be True."
 
@@ -165,10 +176,6 @@ if __name__ == '__main__':
         tensorboard_dir = os.path.join(args.logDir, 'tensorboard')
     if not os.path.exists(tensorboard_dir):
         os.makedirs(tensorboard_dir)
-	#write_dict = {
-	#'writer': tf.summary.FileWriter(logdir=tensorboard_dir, filename_suffix=args.suffix),
-	#'step': 0
-	#}
 
     # load data
     loader = MultiStyleDataloader(args, multi_vocab)
@@ -214,16 +221,20 @@ if __name__ == '__main__':
         accumulator = Accumulator(args.train_checkpoint_step, model.get_output_names('all'))
         learning_rate = args.learning_rate
         
-        early_stopping = EarlyStopping(patience=20, verbose=1)
+        early_stopping = EarlyStopping(patience=3, verbose=1)
 
         best_bleu = 20
         acc_cut = 0.90
         gamma = args.gamma_init
-        epoch = 1
-        early_stopped = False
+        bleu_list = []
+        acc_list = []
         
-#         for epoch in range(1, 1+args.max_epochs):
-        while not early_stopped:
+        for epoch in range(1, 1+args.max_epochs):
+            
+            total_bleu = 0
+            total_acc = 0
+            count = 0
+            
             logger.info('--------------------epoch %d--------------------' % epoch)
             logger.info('learning_rate: %.4f  gamma: %.4f' % (learning_rate, gamma))
             print("epoch: ", epoch)
@@ -254,9 +265,9 @@ if __name__ == '__main__':
                         os.path.join(target_output_path, 'epoch%d' % epoch), write_dict,
                         mode='valid', domain='target')
                     
-                    # early Stopping
-                    if early_stopping.validate(bleu) or bleu > best_bleu:
-                        early_stopped = True
+                    total_bleu += bleu
+                    total_acc += acc
+                    count += 1
 
                     # evaluate online test dataset
 #                    if args.online_test and acc > acc_cut and bleu > best_bleu:
@@ -270,14 +281,17 @@ if __name__ == '__main__':
                 if step % 100 == 0:
                     logger.info('Saving style transfer model...')
                     model.saver.save(sess, os.path.join(args.styler_path, 'model'))
-                
-                if early_stopped:
-                    break
             
-            if early_stopped:
+            avg_bleu = total_bleu/count
+            avg_acc = total_acc/count
+            bleu_list.append(avg_bleu)
+            acc_list.append(avg_acc)
+
+            # early Stopping
+            if early_stopping.validate([avg_bleu, avg_acc]):
                 break
-                
-            epoch += 1
+
+        write_csv_file(bleu_list, acc_list)
 
         # testing
         test_batches = loader.get_batches(domain='target', mode='test')

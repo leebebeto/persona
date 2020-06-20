@@ -13,7 +13,7 @@ from dataloader.cnn_dataloader import ClassificationBatcher
 
 def create_model(sess, args, vocab):
     model = eval('network.classifier.CNN_Model')(args, vocab)
-    import pdb; pdb.set_trace()
+    # import pdb; pdb.set_trace()
     if args.load_model:
         print('Loading model from', os.path.join(args.classifier_path, 'model'))
         model.saver.restore(sess, os.path.join(args.classifier_path, 'model'))
