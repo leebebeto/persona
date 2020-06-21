@@ -176,6 +176,10 @@ if __name__ == '__main__':
         tensorboard_dir = os.path.join(args.logDir, 'tensorboard')
     if not os.path.exists(tensorboard_dir):
         os.makedirs(tensorboard_dir)
+        write_dict = {
+        'writer': tf.summary.FileWriter(logdir=tensorboard_dir, filename_suffix=args.suffix),
+        'step': 0
+        }
 
     # load data
     loader = MultiStyleDataloader(args, multi_vocab)
@@ -288,7 +292,7 @@ if __name__ == '__main__':
             acc_list.append(avg_acc)
 
             # early Stopping
-            if early_stopping.validate([avg_bleu, avg_acc]):
+            if early_stopping.validate(geomean([avg_bleu, avg_acc])):
                 break
 
         write_csv_file(bleu_list, acc_list)
