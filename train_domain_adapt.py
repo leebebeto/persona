@@ -4,6 +4,8 @@ import time
 import random
 import logging
 import math
+from functools import reduce
+import pandas as pd
 
 import numpy as np
 # import tensorflow as tf
@@ -53,7 +55,7 @@ def geomean(scores):
 
 # Save csv file
 def write_csv_file(bleu_list, acc_list):
-    df = pd.DataFrame({'blue': score_list, 'transfer_acc': acc_list})
+    df = pd.DataFrame({'blue': bleu_list, 'transfer_acc': acc_list})
     df.to_csv('score_result.csv', index=False, encoding='UTF8')
 
 #print(device_lib.list_local_devices())
@@ -174,12 +176,12 @@ if __name__ == '__main__':
         tensorboard_dir = os.path.join(args.logDir, 'tensorboard', args.suffix)
     else:
         tensorboard_dir = os.path.join(args.logDir, 'tensorboard')
-    if not os.path.exists(tensorboard_dir):
-        os.makedirs(tensorboard_dir)
-        write_dict = {
-        'writer': tf.summary.FileWriter(logdir=tensorboard_dir, filename_suffix=args.suffix),
-        'step': 0
-        }
+#     if not os.path.exists(tensorboard_dir):
+    os.makedirs(tensorboard_dir)
+    write_dict = {
+    'writer': tf.summary.FileWriter(logdir=tensorboard_dir, filename_suffix=args.suffix),
+    'step': 0
+    }
 
     # load data
     loader = MultiStyleDataloader(args, multi_vocab)
@@ -254,7 +256,6 @@ if __name__ == '__main__':
                     target_batches[i % target_len], source_batches[i % source_len], accumulator, epoch)
                 step += 1
                 write_dict['step'] = step
-                print('step added', step)
                 if step % 100 == 0:
                     accumulator.output('step %d, time %.0fs,'
                         % (step, time.time() - start_time), write_dict, 'train')
@@ -286,7 +287,7 @@ if __name__ == '__main__':
                     logger.info('Saving style transfer model...')
                     model.saver.save(sess, os.path.join(args.styler_path, 'model'))
             
-            avg_bleu = total_bleu/count
+            avg_bleu = (total_bleu/count)
             avg_acc = total_acc/count
             bleu_list.append(avg_bleu)
             acc_list.append(avg_acc)

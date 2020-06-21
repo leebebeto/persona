@@ -1,4 +1,5 @@
-import tensorflow as tf
+# import tensorflow as tf
+import tensorflow.compat.v1 as tf
 
 from network.nn import *
 from network.ControlGen import Model as BaseModel
@@ -7,8 +8,8 @@ class Model(BaseModel):
     def __init__(self, args, vocab):
         self.dim_d = args.dim_d
         self.alpha = args.alpha
-        self.saver = tf.train.Saver()
         super().__init__(args, vocab)
+        self.saver = tf.train.Saver()
 
     def build_placeholder(self):
         self.dropout = tf.placeholder(tf.float32,
