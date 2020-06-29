@@ -21,10 +21,13 @@ from vocab import Vocabulary, build_unify_vocab
 from config import load_arguments
 from dataloader.multi_style_dataloader import MultiStyleDataloader
 from dataloader.online_dataloader import OnlineDataloader
+import pickle
 
 smoothie = SmoothingFunction().method4
 
 logger = logging.getLogger(__name__)
+
+total_data = []
 
 # Early Stopping
 class EarlyStopping():
@@ -60,8 +63,8 @@ def write_csv_file(bleu_list, acc_list):
 
 #print(device_lib.list_local_devices())
 def evaluation(sess, args, batches, model, 
-    classifier, classifier_vocab, domain_classifer, domain_vocab,
-    output_path, write_dict, save_samples=False, mode='valid', domain=''):
+    classifier, classifier_vocab, domain_classifer, epoch, iter, domain_vocab,
+    output_path, save_samples=False, mode='valid', domain=''):
     transfer_acc = 0
     domain_acc = 0
     origin_acc = 0
@@ -115,7 +118,7 @@ def evaluation(sess, args, batches, model,
             domain_acc += np.sum(preds == 1)
             domain_total += len(preds)
 
-    accumulator.output(mode, write_dict, mode)
+	#accumulator.output(mode, write_dict, mode)
     if domain == 'target':
         output_domain_acc = (domain_acc / float(domain_total))
         logger.info("domain acc: %.4f" % output_domain_acc)
@@ -123,8 +126,16 @@ def evaluation(sess, args, batches, model,
     logger.info("transfer acc: %.4f" % output_acc)
     bleu = corpus_bleu(ref, hypo, smoothing_function=smoothie)
     logger.info("Bleu score: %.4f" % bleu)
-
-    add_summary_value(write_dict['writer'], ['acc', 'bleu'], [output_acc, bleu], write_dict['step'], mode, domain)
+    data = {'epoch': epoch, 'iteration': iter, 'domain_acc': output_domain_acc, 'transfer_acc': output_acc, 'blue': bleu}
+    total_data.append(data)
+   # if os.path.isfile('imdb_lyrics_' + str(args.pretrain_epochs) + '.pickle'):
+	#    with open('imdb_lyrics_' + str(args.pretrain_epochs) + '.pickle', 'ab') as f:
+	 #       pickle.dump(total_data, f, protocol = pickle.HIGHEST_PROTOCOL)
+	#else:
+    with open('imdb_lyrics_' + str(args.pretrain_epochs) + '.pickle', 'wb') as f:
+        pickle.dump('logs/'+total_data, f, protocol = pickle.HIGHEST_PROTOCOL)
+	
+	#add_summary_value(write_dict['writer'], ['acc', 'bleu'], [output_acc, bleu], write_dict['step'], mode, domain)
 
     if mode == 'online-test':
         print('on line test')
@@ -178,11 +189,11 @@ if __name__ == '__main__':
         tensorboard_dir = os.path.join(args.logDir, 'tensorboard')
 #     if not os.path.exists(tensorboard_dir):
     os.makedirs(tensorboard_dir)
-    write_dict = {
-	# 'writer': tf.summary.FileWriter(logdir=tensorboard_dir, filename_suffix=args.suffix),
-    'writer': tf.contrib.summary(logdir=tensorboard_dir, filename_suffix=args.suffix),
-    'step': 0
-    }
+#    write_dict = {
+#	# 'writer': tf.summary.FileWriter(logdir=tensorboard_dir, filename_suffix=args.suffix),
+#    'writer': tf.contrib.summary(logdir=tensorboard_dir, filename_suffix=args.suffix),
+#    'step': 0
+#    }
 
     # load data
     loader = MultiStyleDataloader(args, multi_vocab)
@@ -251,26 +262,27 @@ if __name__ == '__main__':
             target_len = len(target_batches)
             iter_len = max(source_len, target_len)
 #             early_stopped = False
+            cnt = 0 
 
             for i in range(iter_len):
                 model.run_train_step(sess, 
                     target_batches[i % target_len], source_batches[i % source_len], accumulator, epoch)
                 step += 1
-                write_dict['step'] = step
+#                write_dict['step'] = step
                 if step % 100 == 0:
-                    accumulator.output('step %d, time %.0fs,'
-                        % (step, time.time() - start_time), write_dict, 'train')
-                    accumulator.clear()
+					#                    accumulator.output('step %d, time %.0fs,'
+#                        % (step, time.time() - start_time), write_dict, 'train')
+#                    accumulator.clear()
 
                     # validation
                     val_batches = loader.get_batches(domain='target', mode='valid')
                     logger.info('---evaluating target domain:')
                     print("epoch: ", epoch)
                     acc, bleu = evaluation(sess, args, val_batches, model,
-                        target_classifier, target_vocab, domain_classifier, multi_vocab,
-                        os.path.join(target_output_path, 'epoch%d' % epoch), write_dict,
+                        target_classifier, target_vocab, domain_classifier, epoch, step, multi_vocab,
+                        os.path.join(target_output_path, 'epoch%d' % epoch),
                         mode='valid', domain='target')
-                    
+                    cnt += 1
                     total_bleu += bleu
                     total_acc += acc
                     count += 1
@@ -304,4 +316,4 @@ if __name__ == '__main__':
         logger.info('---testing target domain:')
         evaluation(sess, args, test_batches, model, 
             target_classifier, target_vocab, domain_classifier, multi_vocab,
-            os.path.join(target_output_path, 'test'), write_dict, mode='test', domain='target')
+            os.path.join(target_output_path, 'test'), mode='test', domain='target')

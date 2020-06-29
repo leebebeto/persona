@@ -26,7 +26,7 @@ class Index extends React.Component {
   constructor(props) {
         super(props);
         this.state = {
-          temp : document.getElementsByTagName('script')[4],
+          temp : document.getElementsByTagName('script')[4].getAttribute('text'),
           testVariable : {value: "this is a test"},
           data : {    
           name: 'John Smith',
@@ -35,6 +35,7 @@ class Index extends React.Component {
           }
       }
 
+        console.log(this.state.temp);
         console.log(this.state.testVariable.value);
         console.log(this.state.data.name);
 
