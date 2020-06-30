@@ -132,8 +132,8 @@ def evaluation(sess, args, batches, model,
 	#    with open('imdb_lyrics_' + str(args.pretrain_epochs) + '.pickle', 'ab') as f:
 	 #       pickle.dump(total_data, f, protocol = pickle.HIGHEST_PROTOCOL)
 	#else:
-    with open('imdb_lyrics_' + str(args.pretrain_epochs) + '.pickle', 'wb') as f:
-        pickle.dump('logs/'+total_data, f, protocol = pickle.HIGHEST_PROTOCOL)
+    with open('logs/imdb_lyrics_' + str(args.pretrain_epochs) + '.pickle', 'wb') as f:
+        pickle.dump(total_data, f, protocol = pickle.HIGHEST_PROTOCOL)
 	
 	#add_summary_value(write_dict['writer'], ['acc', 'bleu'], [output_acc, bleu], write_dict['step'], mode, domain)
 
@@ -173,7 +173,7 @@ def restore_classifier_by_path(classifier, classifier_path, scope):
     logger.info("-----%s classifier model loading from %s successfully!-----" % (scope, classifier_path))
 
 if __name__ == '__main__':
-    os.environ["CUDA_VISIBLE_DEVICES"]="1"
+	#os.environ["CUDA_VISIBLE_DEVICES"]="1"
     args = load_arguments()
     assert args.domain_adapt, "domain_adapt arg should be True."
 
@@ -306,8 +306,8 @@ if __name__ == '__main__':
             acc_list.append(avg_acc)
 
             # early Stopping
-            if early_stopping.validate(geomean([avg_bleu, avg_acc])):
-                break
+#            if early_stopping.validate(geomean([avg_bleu, avg_acc])):
+#                break
 
         write_csv_file(bleu_list, acc_list)
 
@@ -315,5 +315,5 @@ if __name__ == '__main__':
         test_batches = loader.get_batches(domain='target', mode='test')
         logger.info('---testing target domain:')
         evaluation(sess, args, test_batches, model, 
-            target_classifier, target_vocab, domain_classifier, multi_vocab,
+            target_classifier, target_vocab, domain_classifier, 111 , 222, multi_vocab,
             os.path.join(target_output_path, 'test'), mode='test', domain='target')
