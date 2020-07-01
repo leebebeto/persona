@@ -22,6 +22,9 @@ def load_arguments():
     argparser.add_argument('--logDir',
             type=str,
             default='')
+    argparser.add_argument('--custom_styler_path',
+            type=str,
+            default='')
 
     # general model setting
     argparser.add_argument('--learning_rate',
@@ -234,5 +237,7 @@ def update_domain_adapt_datapath(args):
         args.modelDir, 'classifier', '_'.join([args.source_dataset, args.dataset, 'domain_adapt']))
     args.styler_path = os.path.join(args.modelDir, 'domain_adapt_styler')
 
+    if args.custom_styler_path:
+        args.styler_path = args.styler_path + '_' + args.custom_styler_path
     return args
 
