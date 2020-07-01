@@ -2,7 +2,7 @@ import pickle
 import csv
 import pandas as pd
 
-pretrain_epoch = 1
+pretrain_epoch = 20
 with open('transfer_list/sample_result_'+ str(pretrain_epoch) + '.pickle', 'rb') as f:
 	data = pickle.load(f)
 df = pd.DataFrame(data)

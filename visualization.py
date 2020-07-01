@@ -5,7 +5,7 @@ import os
 os.makedirs('vis', exist_ok = True)
 os.makedirs('transfer_list', exist_ok = True)
 
-pretrain_epoch = 1
+pretrain_epoch = 20
 
 # load losses
 with open('logs/' + 'imdb_lyrics_' + str(pretrain_epoch) + '.pickle', 'rb') as f:
@@ -71,7 +71,7 @@ for i in range(1,21):
 			transfer_result.append(trans.split('\t')[1]) 
 
 	total_dict[i] = {'original': original_result, 'recon': reconstruction_result, 'transfer': transfer_result}
-	
+	import pdb; pdb.set_trace()	
 
 with open('transfer_list/sample_result_' + str(pretrain_epoch) + '.pickle', 'wb') as result:
 	pickle.dump(total_dict, result)
