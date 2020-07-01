@@ -39,7 +39,7 @@ def load_arguments():
             help='max pretrain epoch for LM.')
     argparser.add_argument('--max_epochs',
             type=int,
-            default=30)
+            default=20)
     argparser.add_argument('--max_len',
             type=int,
             default=20,
